@@ -1,0 +1,311 @@
+.rrp{
+    background: url(rrp.jpg);
+    width: 100%;
+    height: 97vh;
+    margin-top: -37px;
+    object-fit: cover;
+    background-size: cover;
+}
+.rrp1{
+    font-size: 87px;
+    padding: 54px 107px;
+}
+.rrp2{
+    font-size: 47px;
+    margin-top: -79px;
+    margin-left: 109px;
+}
+.rrp3{
+    font-size: 47px;
+    text-align: center;
+    margin-top: 77px;
+}
+.rrp5{
+    width: 897px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: circle(57%);
+}
+.rrp4{
+    display: flex;
+    margin-top: 57px;
+}
+.rrp6{
+    line-height: 30px;
+    margin-top: 19px;
+    margin-left: 27px;
+}
+.rrp7{
+    display: flex;
+    margin-left: 87px;
+    margin-top: 37px;
+}
+.rrp8{
+    line-height: 30px;
+    margin-top: 67px;
+}
+.rrp9{
+    width: 777px;
+    height: 520px;
+    object-fit: cover;
+    margin-left: 47px;
+    background-size: cover;
+    clip-path: circle(57%);
+}
+.rrp10{
+    text-align: center;
+    font-size: 57px;
+    padding-top:67px;
+    margin-top: 57px;
+    color: white;
+}
+.rrp11{
+    width: 1277px;
+    height: 537px;
+    object-fit: cover;
+    background-size: cover;
+}
+.rrp12{
+    display: flex;
+    justify-content: center;
+    margin-top: 37px;
+}
+.rrp13{
+    background-color: black;
+    width: 100%;
+    height: 797px;
+}
+.rrp14{
+    font-size: 47px;
+    text-align: center;
+    margin-top: 77px;
+}
+.rrp15{
+    display: flex;
+    margin-top: 57px;
+}
+.rrp16{
+    width: 807px;
+    height: 520px;
+    object-fit: cover;
+    clip-path: polygon(100% 0, 0 0, 0 100%, 60% 100%, 100% 76%);
+    background-size: cover;
+}
+.rrp17{
+    line-height: 30px;
+    margin-left: 107px;
+    margin-top: 17px;
+}
+.rrp18{
+    display: flex;
+    margin-left: 97px;
+    margin-top: 47px;
+}
+.rrp19{
+    line-height: 30px;
+    margin-top: 57px;
+}
+.rrp20{
+    width: 807px;
+    height: 520px;
+    margin-left: 82px;
+    clip-path: polygon(37% 0, 100% 0, 100% 100%, 0 100%, 0 27%);
+    object-fit: cover;
+    background-size: cover;
+}
+.rrp21{
+    background-color: black;
+    width: 100%;
+    height: 797px;
+    margin-top: 67px;
+}
+.rrp22{
+    font-size: 57px;
+    text-align: center;
+    color: white;
+    padding-top: 67px;
+}
+.rrp24{
+    display: flex;
+    justify-content: center;
+    margin-top: 37px;
+}
+.rrp23{
+    width: 1277px;
+    height: 537px;
+    object-fit: cover;
+    background-size: cover;
+}
+.rrp25{
+    font-size: 47px;
+    text-align: center;
+    margin-top: 77px;
+}
+.rrp26{
+    display: flex;
+    margin-top: 57px;
+}
+.rrp27{
+    width: 807px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: circle(57%);
+}
+.rrp28{
+    line-height: 30px;
+    margin-left:107px;
+    margin-top: 77px;
+}
+.rrp29{
+    display: flex;
+    margin-top: 47px;
+    margin-left: 77px;
+}
+.rrp30{
+    line-height: 30px;
+    margin-top: 87px;
+}
+.rrp31{
+    width: 817px;
+    height: 520px;
+    object-fit: cover;
+    margin-left: 47px;
+    background-size: cover;
+    clip-path: circle(57%);
+}
+.rrp32{
+    background-color: black;
+    width: 100%;
+    height: 797px;
+    margin-top: 67px;
+}
+.rrp33{
+    font-size: 57px;
+    text-align: center;
+    color: white;
+    padding-top: 67px;
+}
+.rrp34{
+    width: 1277px;
+    height: 537px;
+    object-fit: cover;
+    background-size: cover;
+}
+.rrp35{
+    display: flex;
+    margin-top: 37px;
+    justify-content: center;
+}
+.rrp36{
+    font-size: 40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 57px;
+}
+.rrp37{
+    display: flex;
+}
+.rrp38{
+    background-color: black;
+    padding: 15px 107px;
+    color: white;
+    font-size: 21px;
+    letter-spacing: 1px;
+    border: none;
+    transition: 0.4s;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.rrp39{
+    background-color: black;
+    padding: 15px 107px;
+    color: white;
+    font-size: 21px;
+    letter-spacing: 1px;
+    border: none;
+    cursor: pointer;
+    transition: 0.4s;
+    margin-top: 10px;
+}
+.rrp40{
+    background-color: black;
+    padding: 15px 107px;
+    color: white;
+    font-size: 21px;
+    letter-spacing: 1px;
+    border: none;
+    cursor: pointer;
+    transition: 0.4s;
+    margin-top: 10px;
+}
+.rrp40:hover{
+    box-shadow: 0 0 7px black;
+    background-color: white;
+    color: black;
+}
+.rrp39:hover{
+    box-shadow: 0 0 7px black;
+    background-color: white;
+    color: black;
+}
+.rrp38:hover{
+    box-shadow: 0 0 7px black;
+    background-color: white;
+    color: black;
+}
+.rrp41{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 47px;
+}
+.rrp42{
+    width: 759.7px;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+    margin-top: 57px;
+}
+.rrp44{
+    display: flex;
+    flex-direction: column;
+}
+.rrp45{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 37px;
+    margin-top: 57px;
+}
+.rrp47{
+    display: flex;
+    justify-content: center;
+}
+.rrp46{
+    background-color: black;
+    padding: 15px 70px;
+    font-size: 22px;
+    text-decoration: none;
+    margin-top: 27px;
+    color: white;
+    transition: 0.4s;
+}
+.rrp46:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 7px black;
+}
+.rrp48{
+    font-size: 37px;
+    text-align: center;
+    margin-top: 57px;
+}
+.rrp49{
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+}
+.rrp50{
+    font-size: 67px;
+    cursor: pointer;
+}

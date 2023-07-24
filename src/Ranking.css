@@ -1,0 +1,136 @@
+.data-gal777{
+   display: flex;
+   justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+    align-items: center;
+    margin: 10px;
+}
+.img-gal777{
+    width: 1177px;
+    height: 517px;
+    object-fit: cover;
+    background-size: cover;
+    margin-top: 17px;
+}
+.rank777{
+   background-color: rgb(0, 0, 0);
+   width: 97px;
+   height: 97px;
+   font-size: 37px;
+   border-radius: 50%;
+   margin-top: 17px;
+   text-align: center;
+   padding-top: 24px;
+   color: white;
+   clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+}
+.type777{
+    background-color: black;
+    width: 697px;
+    height: 87px;
+    padding-top: 18px;
+    font-size: 34px;
+    letter-spacing: 1px;
+    color: white;
+    text-align: center;
+    margin-left: -823px;
+    clip-path: polygon(0 0, 100% 0, 67% 100%, 0% 100%);
+}
+.rank-h1{
+    text-align: center;
+    font-size: 77px;
+    text-transform: uppercase;
+    margin-top: 47px;
+}
+.rank-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 9px;
+}
+.rank2{
+    text-align: center;
+    font-size: 47px;
+}
+.rank3{
+    background-color: black;
+    width: 169px;
+    height: 169px;
+    margin-left: 177px;
+    font-size: 63px;
+    padding-top: 74px;
+    color: white;
+    clip-path: polygon(50% 0%, 90% 20%, 100% 60%, 75% 100%, 25% 100%, 0% 60%, 10% 20%);
+}
+.rank5{
+    margin-top: 37px;
+    margin-left: 107px;
+    font-size: 37px;
+}
+.rank4{
+    width: 777px;
+    height: 507px;
+    object-fit: cover;
+    background-size: cover;
+}
+.rank7{
+    text-align: center;
+    font-size: 47px;
+}
+.p777rguysank a{
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: black;
+    font-size: 23px;
+    padding: 17px 77px;
+    transition: 0.5s;
+    color: white;
+}
+.p777rguysank a:hover{
+    color: black;
+    background-color: white;
+    box-shadow: 0 0 7px black;
+}
+.rankup3icon777{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.rankup3icon777:hover{
+    box-shadow: 0 0 7px black;
+}
+.rankup2icon777{
+    font-size: 37px;
+}
+.rankup4icon777{
+    display: flex;
+    justify-content: center;
+    margin-top: 17px;
+}
+.p777r2guysank{
+    display: flex;
+    justify-content: center;
+    margin-top: 57px;
+    padding-bottom: 17px;
+}
+.search{
+    background: linear-gradient(black, white); 
+    box-shadow: 0 0 7px black; 
+    border: none;
+    color: rgb(0, 0, 0);
+    padding-top: 4px;
+}
+input::placeholder{
+    color: rgb(0, 0, 0); 
+}
+.energyuniverse777{
+    display: flex;
+    padding-bottom: 27px;
+    justify-content: center;
+    margin-top: 47px;
+}

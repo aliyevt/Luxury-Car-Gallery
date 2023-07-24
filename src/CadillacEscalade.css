@@ -1,0 +1,475 @@
+.cad{
+    background: url("cad1.jpg");
+    width: 100%;
+    height: 94vh;
+    margin-top: -77px;
+    object-fit: cover;
+    background-size: cover;
+}
+.cad1{
+    font-size: 90px;
+    padding: 120px 100px;
+    letter-spacing: 2px;
+}
+.cad2{
+    font-size: 50px;
+    margin-left: 107px;
+    margin-top: -145px;
+    letter-spacing: 1px;
+}
+.cad3{
+    font-size: 37px;
+}
+.cad2icon777{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.cad2icon777:hover{
+    box-shadow: 0 0 7px black;
+}
+.cad3icon777{
+    margin-left: 87px;
+    margin-top: 8px;
+}
+.cad4{
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 90px;
+    letter-spacing: 1px;
+}
+.cad5{
+    display: flex;
+    margin-top: 70px;
+}
+.cad6{
+    width: 800px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(100% 0, 100% 76%, 54% 100%, 0% 100%, 0% 0%);
+}
+.cad7{
+   margin-left: 100px;
+}
+.cad8{
+    line-height: 30px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.cad9{
+    background-color: black;
+    padding: 15px 70px;
+    color: white;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.cad9:hover{
+    box-shadow: 0 0 50px black;
+    background-color: white;
+    color: black;
+}
+.cad10{
+    text-align: center;
+    font-weight: 400;
+    font-size: 50px;
+    margin-top: 90px;
+}
+.cad11{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 110px;
+}
+.cad14{
+    width: 800px;
+    height: 520px;
+    object-fit: cover;
+    margin-left: 85px;
+    background-size: cover;
+    clip-path: polygon(100% 0, 100% 100%, 50% 100%, 0 65%, 0 0);
+}
+.cad13{
+    line-height: 30px;
+    margin-top: 10px;
+}
+.cad15{
+    background-color: black;
+    padding: 15px 70px;
+    color: white;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    margin-top: 45px;
+}
+.cad15:hover{
+    box-shadow: 0 0 50px black;
+    color: black;
+    background-color: white;
+}
+.cad16{
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 400;
+    font-size: 50px;
+}
+.cad17{
+    display: flex;
+    margin-top: 70px;  
+}
+.cad18{
+    width: 800px;
+    height: 520px;
+    object-fit: cover;
+    clip-path: polygon(100% 100%, 100% 31%, 48% 0, 0 0, 0 100%);
+    background-size: cover;
+}
+
+.cad20{
+    line-height: 30px;
+    margin-top: 10px;
+}
+.cad21{
+    background-color: black;
+    padding: 15px 70px;
+    color: white;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    margin-top: 50px;   
+}
+.cad21:hover{
+    box-shadow: 0 0 50px black;
+    color: black;
+    background-color: white;
+}
+.cad22{
+    margin-left: 90px;
+}
+.cad23{
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 400;
+    font-size: 50px;
+}
+.cad24{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 110px;
+}
+.cad26{
+    line-height: 30px;
+    margin-top: 10px;
+}
+.cad27{
+    width: 800px;
+    height: 520px;
+    object-fit: cover;
+    margin-left: 102px;
+    clip-path: polygon(0 31%, 48% 0, 100% 0, 100% 100%, 0 100%);
+    background-size: cover;
+}
+.cad28{
+    background-color: black;
+    padding: 15px 70px;
+    color: white;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    margin-top: 50px;     
+}
+.cad28:hover{
+    box-shadow: 0 0 50px black;
+    background-color: white;
+    color: black;
+}
+.cad29{
+    text-align: center;
+    margin-top: 90px;
+    font-weight: 400;
+    font-size: 50px;
+}
+.cad30{
+    display: flex;
+    margin-top: 70px;
+}
+.cad31{
+    width: 800px;
+    height: 520px;
+    clip-path: polygon(0 0, 100% 0, 100% 74%, 50% 100%, 0 100%);
+    object-fit: cover;
+    background-size: cover;
+}
+.cad33{
+    line-height: 30px;
+    margin-top: 10px;
+}
+.cad34{
+    background-color: black;
+    padding: 15px 70px;
+    color: white;
+    font-size: 22px;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    margin-top: 50px;   
+}
+.cad34:hover{
+    box-shadow: 0 0 50px black;
+    background-color: white;
+    color: black;
+}
+.cad35{
+    margin-left: 50px;
+}
+.cad37{
+    background-color: black;
+    width: 100%;
+    height: 445vh;
+    margin-top: 100px;
+}
+.cad38{
+    text-align: center;
+    font-weight: 400;
+    font-size: 70px;
+    padding-top: 70px;
+    letter-spacing: 1px;
+    color: white;
+}
+.cad39{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 70px;
+}
+.cad40{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 70px;
+}
+.cad41{
+    width: 700px;
+    height: 617px;
+    object-fit: cover;
+    background-size: cover;
+}
+.cad42{
+    display: flex;
+    margin-top: 85px;
+    margin-left: 135px;
+}
+.cad43{
+    width: 700px;
+    height: 617px;
+    object-fit: cover;
+    background-size: cover;
+}
+.cad44{
+    color: white;
+    font-size: 70px;
+    padding-left: 100px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.cad45{
+    display: flex;
+    margin-top: 85px;
+    justify-content: space-evenly;
+}
+.cad46{
+    color: white;
+    font-size: 70px;
+    padding-left: 100px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.cad47{
+    width: 700px;
+    height: 717px;
+    object-fit: cover;
+    background-size: cover;   
+}
+.cad48{
+    display: flex;
+    margin-top: 85px;
+    margin-left: 135px;
+}
+.cad49{
+    width: 700px;
+    height: 717px;
+    object-fit: cover;
+    background-size: cover;   
+}
+.cad50{
+    color: white;
+    font-size: 70px;
+    padding-left: 100px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.cad51{
+    width: 983px;
+    height: 442px;
+    object-fit: cover;
+    background-size: cover;
+    margin-left: 90px;
+    position: relative;
+    margin-top: -50px;
+}
+
+
+
+
+.cad62{
+    width: 970px;
+    height: 200px;
+    margin-left: 85px;
+    margin-top: 160px;
+    border-radius: 50%;
+    position: absolute;
+    border: 1px solid black;
+}
+.cad52{
+    margin-left: 170px;
+    margin-top: 70px;
+}
+.cad53{
+    display: flex;
+    margin-left: 360px;
+}
+.cad54{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: black;
+    box-shadow: 0 0 50px black;
+}
+.cad55{
+    width: 50px;
+    height: 50px;
+    margin-left: 7px;
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: red;
+    box-shadow: 0 0 50px black;
+}
+.cad56{
+    width: 50px;
+    transition: 0.3s;
+    height: 50px;
+    box-shadow: 0 0 50px black;
+    margin-left: 7px;
+    cursor: pointer;
+    background-color: white;
+}
+.cad57{
+    width: 50px;
+    height: 50px;
+    box-shadow: 0 0 50px black;
+    transition: 0.3s;
+    margin-left: 7px;
+    cursor: pointer;
+    background-color: rgb(115, 114, 114);
+}
+.cad58{
+    width: 50px;
+    height: 50px;
+    margin-left: 7px;
+    transition: 0.3s;
+    box-shadow: 0 0 50px black;
+    cursor: pointer;
+    background-color: rgb(94, 41, 3);
+}
+.cad59{
+    width: 50px;
+    height: 50px;
+    transition: 0.3s;
+    margin-left: 7px;
+    box-shadow: 0 0 50px black;
+    cursor: pointer;
+    background-color: darkblue;
+}
+.cad60{
+    width: 50px;
+    height: 50px;
+    margin-left: 7px;
+    box-shadow: 0 0 50px black;
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: rgb(80, 78, 78);
+}
+.cad61{
+    width: 50px;
+    height: 50px;
+    transition: 0.3s;
+    margin-left: 7px;
+    box-shadow: 0 0 50px rgb(0, 0, 0);
+    cursor: pointer;
+    background-color: rgb(170, 161, 161);
+}
+.cad63{
+    text-align: center;
+    font-weight: 400;
+    font-size: 57px;
+    margin-top: 50px;
+}
+.cad65{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-top: 85px;
+    font-size: 40px;
+}
+.cad67{
+     background-color: black;
+     padding: 15px 90px;
+     color: white;
+     text-decoration: none;
+     letter-spacing: 1px;
+     transition: 0.5s;
+     margin-top: 40px;
+     font-size: 27px;
+}
+.cad67:hover{
+    box-shadow: 0 0 50px black;
+    background-color: white;
+    color: black;
+}
+.cad68{
+    display: flex;
+    justify-content: center;
+}
+.cad69{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-top: 50px;
+    font-size: 40px;
+}
+.cad70{
+    display: flex;
+    margin-top: 15px;
+    justify-content: center;
+}
+.cad71{
+    font-size: 70px;
+    cursor: pointer;
+}

@@ -1,0 +1,365 @@
+.luxsuv-section{
+    background: url(be2ntimg777.webp);
+    width: 100%;
+    height: 113.7vh;
+    margin-top: -217px;
+    background-size: cover;
+    object-fit: cover;
+}
+.luxsuv-sec1{
+    font-size: 100px;
+    padding: 237px 100px;
+    letter-spacing: 2px;
+    color: white;
+}
+.luxsuv-sec2{
+    font-size: 47px;
+    color: white;
+    margin-left: 103.5px;
+    margin-top: -269px;
+    letter-spacing: 1px;
+}
+.luxsuv-sec3{
+    font-size: 37px;
+    color: white;
+}
+.bent2icon777{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid rgb(255, 255, 255);
+}
+.bent3icon777{
+     margin-left: 87px;
+     margin-top: 8px;
+}
+.bent2icon777:hover{
+    box-shadow: 0 0 7px rgb(255, 255, 255);
+}
+.luxsuv-sec4{
+    font-weight: 400;
+    text-align: center;
+    font-size: 45px;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+.luxsuv-sec5{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    position: sticky;
+}
+
+.luxsuv-sec7{
+    font-size: 18px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 15px 70px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.luxsuv-sec8{
+    padding: 15px 70px;
+    margin-left: 15px;
+    background-color: white;
+    border: 1px solid black;
+    font-size: 18px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.luxsuv-sec9{
+    display: flex;
+    margin-top: 70px;
+}
+.luxsuv-sec10{
+    height: 300px;
+    object-fit: cover; 
+    width: 500px;
+}
+.lux-sec11{
+    font-weight: 400;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+.lux-sec12{
+    margin-left: 5px;
+    line-height: 27px;
+}
+.lux-sec13{
+    font-size: 13px;
+    font-weight: 900;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.lux-sec14{
+    line-height: 27px;
+    margin-top: 57px;
+    margin-left: 70px;
+}
+.lux-sec15{
+    font-size: 13px;
+    font-weight: 900;
+    margin-top: 20px;
+    line-height: 27px;
+    margin-left: 70px;
+}
+.lux-sec16{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    background-size: cover;
+    margin-top: 70px;
+}
+.lux-sec17{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 50px;
+    font-size: 45px;
+}
+.lux-sec18{
+    display: flex;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.lux-sec19{
+  
+    text-align: center;
+    margin-left: 150px;
+}
+.lux-sec20{
+    font-weight: 400;
+    margin-left: 150px;
+    text-align: center;
+}
+.lux-sec21{
+    display: flex;
+    margin-top: 50px;
+}
+.lux-sec36{
+    margin-left: 70px;
+}
+.lux-sec37{
+    margin-left: 110px;
+}
+.lux-sec22{
+    margin-left: 100px;
+    font-weight: 400;
+    color: brown;
+    letter-spacing: 1px;
+}
+.lux-sec23{
+    margin-left: 100px;
+    font-weight: 400;
+    font-size: 40px;
+}
+.lux-sec26{
+    margin-top: 15px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    clip-path: polygon(0 0, 100% 0, 88% 100%, 12% 100%);
+    padding: 7px 87px ;
+}
+.kk777{
+    font-size: 67px;
+    margin-left: 97px;
+    margin-top: 7px;
+    cursor: pointer;
+    width: max-content;
+}
+.lux-sec25{
+    margin-top: 10px;
+    font-weight: 900;
+}
+.lux-sec27{
+    width: 100%;
+    height: 600px;
+    margin-top: 70px;
+    object-fit: cover;
+    background-size: cover;
+}
+.lux-sec40{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+.lux-sec41{
+    color: brown;
+    font-weight: 400;
+    letter-spacing: 1px;
+    
+}
+.lux-sec42{
+    font-size: 40px;
+    font-weight: 400;
+}
+.lux-sec43{
+    margin-left: 100px;
+    font-weight: 900;
+}
+.lux-sec44{
+    font-weight: 900;
+    margin-left: 70px;
+}
+.lux-sec45{
+    font-weight: 400;
+    color: brown;
+    text-align: center;
+    margin-top: -57px;
+    font-size: 37px;
+    letter-spacing: 1px;
+}
+.sLine{
+    width: 100%;
+    height: 177px;
+    background-color: black;
+    clip-path: polygon(32% 34%, 100% 0%, 33% 36%, 0% 100%);
+    margin-top: -107px;
+}
+.kkk777{
+    margin-left: 607px;
+    margin-top: 23px;
+}
+.kkkk777{
+    margin-top: -4px;
+    margin-left: -5px;
+}
+.kkkkk777{
+    font-size: 67px;
+    cursor: pointer;
+    width: max-content;
+}
+.lux-sec46{
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.lux-sec48{
+    width: 394px;
+    height: 197px;
+    object-fit: cover;
+    background-size: cover;
+}
+.lux-sec47{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.lux-sec51{
+    margin-left: 25px;
+}
+.lux-sec50{
+    margin-left: 25px;
+}
+.lux-sec52{
+    font-weight: 400;
+    font-weight: 900;
+    margin-top: 15px;
+}
+.lux-sec53{
+    margin-top: 10px;
+   font-size: 15px;
+   font-weight: 900;
+   line-height: 27px;
+}
+.lux-sec54{
+    text-align: center;
+    margin-top: 34px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 11px;
+    font-weight: 900;
+    line-height: 25px;
+}
+.lux-sec55{
+    display: flex;
+    justify-content: center;
+    margin-top: 47px;
+}
+.bs777{
+    font-size: 67px;
+    width: max-content;
+    cursor: pointer;
+    margin-top: 17px;
+}
+.lux-sec56{
+    width: 795px;
+    height: 815px;
+    object-fit: cover;
+    background-size: cover;
+}
+.lux-sec57{
+    color: brown;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.lux-sec58{
+    font-weight: 400;
+    letter-spacing: 1px;
+    font-size: 45px;
+    margin-top: 15px;
+}
+.lux-sec59{
+    margin-left: 40px;
+}
+.lux-sec60{
+    font-weight: 900;
+    margin-top: 40px;
+}
+.lux-sec61{
+    font-weight: 900;
+    margin-top: 50px;
+}
+.lux-sec62{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-weight: 400;
+}
+.lux-sec63{
+    background-color: black;
+    padding: 15px 70px;
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
+    letter-spacing: 1px;
+    transition: 0.5s;
+}
+.lux-sec63:hover{
+    background-color: white;
+    box-shadow: 0 0 50px black;
+    color: black;
+}
+
+.lux-sec64{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.lux-sec65{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-weight: 400;
+}
+.lux-sec66{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.lux-sec67{
+    font-size: 70px;
+    cursor: pointer;
+}
+.bentluxspecsection-777{
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+   background-color: rgb(21, 21, 21);
+}

@@ -1,0 +1,312 @@
+.bdivonewsimg{
+    background: url('bdivo.webp');
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    background-size: cover;
+}
+.bdn{
+    color: white;
+    font-size: 117px;
+    padding: 47px 127px;
+}
+.bdn2{
+    color: white;
+    font-size: 71px;
+    margin-left: 130px;
+    margin-top: -64px;
+}
+.bdn3{
+    background-color: #06282c;
+    width: 100%;
+    height: 507px;
+}
+.bdn4{
+    color: white;
+    font-size: 40px;
+    padding: 57px 127px;
+}
+.bdn5{
+    display: flex;
+    margin-top: -27px;
+    margin-left: 128px;
+}
+.bdn6{
+    color: white;
+    line-height: 28px;
+}
+.bdn7{
+    color: white;
+    line-height: 28px;
+    margin-left: 137px;
+}
+.bdn8{
+    width: 100%;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bdn10{
+    text-align: center;
+    font-size: 47px;
+    margin-top: 77px;
+}
+.bdn77{
+    width: 1177px;
+    height: 507px;
+    margin-left: 177px;
+    margin-top: 37px;
+    object-fit: cover;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+.bdivotechspech1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+.bdivonewsh1{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    margin-left: 150px;
+    padding-top: 50px;
+}
+.bdivotechspech1{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+.bdivospeed-h1{
+    font-weight: 400;
+}
+.bdivospeed2-h1{
+    font-weight: 400;
+    margin-left: 500px;
+}
+.bbb{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.bbb2{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.bspeedline{
+    width: 730px;
+    height: 0.5px;
+    background-color: black;
+    margin-left: 395px;
+}
+.bdivoengine-h1{
+    font-weight: 400;
+}
+.bdivoengine2-h1{
+    margin-left: 500px;
+    font-weight: 400;
+}
+.bdivohpower-h1{
+    font-weight: 400;
+}
+.bdivohpower2-h1{
+    margin-left: 400px;
+    font-weight: 400;
+}
+.bbb3{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.bbb4{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.bdivotorque-h1{
+    font-weight: 400;
+}
+.bdivotorque2-h1{
+    font-weight: 400;
+    margin-left: 485px;
+}
+.bbb5{
+    display: flex;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+.bdivotime-h1{
+    font-weight: 400;
+}
+.bdivotime2-h1{
+    font-weight: 400;
+    margin-left: 440px;
+}
+.bbb6{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.bdivotrans-h1{
+    font-weight: 400;
+}
+.bdivotrans2-h1{
+    font-weight: 400;
+    margin-left: 315px;
+}
+.bbb7{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.bdivoweight-h1{
+    font-weight: 400;
+}
+.bdivoweight2-h1{
+    font-weight: 400;
+    margin-left: 480px;
+}
+.bbb8{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 400px;
+}
+.bdivoprice-h1{
+    font-weight: 400;
+}
+.bdivoprice2-h1{
+    font-weight: 400;
+    margin-left: 460px;
+}
+.bdivopage-h1{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+.bdivohrefbtn{
+    background-color: black;
+    padding: 20px;
+    border: none;
+    margin-top: 50px;
+    margin-left: 570px;
+}
+.bdivohrefbtn a{
+  text-decoration: none;
+  letter-spacing: 1px;
+  color: white;
+  padding: 15px 70px;
+  font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.bdivosection-18{
+    width: 100%;
+    height: 600px;
+    margin-top: 70px;
+   background-color: rgb(21, 21, 21);
+}
+.all-cars-1{
+    color: white;
+    padding-top: 30px;
+    font-size: 22px;
+    padding-left: 50px;
+    font-weight: 400;
+}
+.car-models{
+   padding-left: 50px;
+   color: white;
+}
+.car-models-1{
+    padding-left: 100px;
+    color: white;
+ }
+.all-models-1{
+    display: flex;
+}
+.instagram{
+    font-size: 22px;
+}
+.instagram a{
+    color: white;
+}
+.twitter{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.twitter a{
+    color: white;
+}
+.facebook{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.facebook a{
+    color: white;
+}
+.linkedin{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.linkedin a{
+    color: white;
+}
+.youtube{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.youtube a{
+    color: white;
+}
+.netflix{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.netflix a{
+    color: white;
+}
+.tiktok{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.tiktok a{
+    color: white;
+}
+.social{
+    display: flex;
+    margin-left: 250px;
+}
+.copy{
+    color: white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.allright{
+    color: white;
+    margin-left: 40px;
+    margin-top: 5px;
+}

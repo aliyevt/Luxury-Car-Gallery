@@ -1,0 +1,265 @@
+.bmw7s{
+    background: url(bmw7.jpeg);
+    width: 100%;
+    height: 97vh;
+    object-fit: cover;
+    margin-top: -27px;
+    background-size: cover;
+}
+.bmw17s{
+  font-size: 127px;
+  padding: 44px 117px;
+}
+.bmw27s{
+  font-size: 40px;
+  margin-left: 125.7px;
+  margin-top: -77px;
+}
+.bmw37s{
+  display: flex;
+  margin-left: 57px;
+  margin-top: -37px;
+}
+.bmw47s{
+  width: 657px;
+  height: 520px;
+  background-size: cover;
+  object-fit: cover;
+}
+.bmw77s{
+  margin-left: 77px;
+  margin-top: 81px;
+}
+.bmw67s{
+  line-height: 30px;
+}
+.bmw87s{
+  display: flex;
+  margin-top: -57px;
+  margin-left: 107px;
+}
+.bmw97s{
+  line-height: 30px;
+}
+.bmw117s{
+  width: 717px;
+  height: 520px;
+  background-size: cover;
+  object-fit: cover;
+  margin-left: 47px;
+  margin-top: -77px;
+}
+.bmw107s{
+  font-size: 13px;
+  font-weight: 900;
+  margin-top: 17px;
+}
+.bmw127s{
+  text-align: center;
+  font-size: 57px;
+}
+.bmw137s{
+  display: flex;
+  margin-top: 27px;
+  justify-content: center;
+}
+.bmw147s{
+  background: linear-gradient(black,rgb(100, 43, 2),black);
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  border: none;
+  transition: 0.4s;
+}
+.bmw147s:hover{
+  transform: scale(1.2);
+}
+.bmw157s{
+  background: linear-gradient(black,rgb(235, 218, 210),black);
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  border: none;
+  transition: 0.4s;
+  margin-left: 27px;
+}
+.bmw157s:hover{
+  transform: scale(1.2);
+}
+.bmw167s{
+  background: linear-gradient(black,rgb(255, 255, 255),black);
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  border: none;
+  transition: 0.4s;
+  margin-left: 27px;
+}
+.bmw167s:hover{
+  transform: scale(1.2);
+}
+.bmw177s{
+  background: linear-gradient(black,darkblue,black);
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  border: none;
+  margin-left: 27px;
+  transition: 0.4s;
+}
+.bmw177s:hover{
+  transform: scale(1.2);
+}
+.bmw187s{
+  background: linear-gradient(black,rgb(205, 227, 237),black);
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+  border: none;
+  margin-left: 27px;
+  transition: 0.4s;
+}
+.bmw187s:hover{
+  transform: scale(1.2);
+}
+.bmw197s{
+  width: 1277px;
+  height: 547px;
+  object-fit: cover;
+  background-size: cover;
+  margin-top: 47px;
+}
+.bmw207s{
+  display: flex;
+  justify-content: center;
+}
+.bmw217s{
+  background-color: black;
+  width: 100%;
+  height: 331vh;
+  margin-top: 57px;
+}
+.bmw227s{
+  text-align: center;
+  color: white;
+  font-size: 57px;
+  letter-spacing: 1px;
+  padding-top: 53px;
+}
+.bmw237s{
+  width: 727px;
+  height: 477px;
+  object-fit: cover;
+  background-size: cover;
+}
+.bmw257s{
+  display: flex;
+  margin-top: 47px;
+  margin-left: 97px;
+}
+.bmw247s{
+  color: white;
+  text-transform: uppercase;
+  margin-left: 127px;
+  font-size: 64px;
+}
+.bmw267s{
+  display: flex;
+  margin-left: 94px;
+  margin-top: 87px;
+}
+.bmw277s{
+  color: white;
+  text-transform: uppercase;
+  font-size: 64px;
+}
+.bmw287s{
+  width: 727px;
+  height: 477px;
+  object-fit: cover;
+  margin-left: 77px;
+  background-size: cover;
+}
+.bmw297s{
+  display: flex;
+  margin-left: 94px;
+  margin-top: 87px;
+}
+.bmw307s{
+  width: 727px;
+  height: 477px;
+  object-fit: cover;
+  background-size: cover;
+}
+.bmw317s{
+  color: white;
+  text-transform: uppercase;
+  font-size: 64px;
+  margin-left: 127px;
+}
+.bmw327s{
+  display: flex;
+  margin-top: 87px;
+  margin-left: 94px;
+}
+.bmw337s{
+  color: white;
+  text-transform: uppercase;
+  font-size: 64px;
+}
+.bmw347s{
+  width: 727px;
+  height: 477px;
+  object-fit: cover;
+  background-size: cover;
+  margin-left: 77px;
+}
+.bmw357s{
+  display: flex;
+  margin-top: 87px;
+  margin-left: 94px;
+}
+.bmw367s{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background-size: cover;
+}
+.bmw377s{
+  font-size: 64px;
+  margin-left: 127px;
+  user-select: none;
+}
+.bmw387s{
+   width: 727px;
+   height: 477px;
+   overflow: hidden;
+   user-select: none;
+}
+.bmw397s{
+  display: flex;
+  margin-left: 119px;
+  user-select: none;
+}
+.bmw407s{
+  font-size: 77px;
+  user-select: none;
+  cursor: pointer;
+}
+.bmw417s{
+  font-size: 84px;
+  margin-left: 47px;
+  margin-top: -3px;
+  user-select: none;
+  cursor: pointer;
+}
+.bmw427s{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 37px;
+}

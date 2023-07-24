@@ -1,0 +1,17 @@
+.errh1{
+  width: 277px;
+  height: 277px;object-fit: cover;
+  background-size: cover;
+}
+.errc{
+    display: flex;
+    margin-top: 57px;
+    justify-content: center;
+}
+.err{
+    font-size: 57px;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 400;
+    text-transform: uppercase;
+}

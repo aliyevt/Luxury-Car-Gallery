@@ -1,0 +1,92 @@
+.mgtr{
+    background: url(mercg7.jpg);
+    width: 100%;
+    height: 97vh;
+    object-fit: cover;
+    background-size: cover;
+}
+.mgtr2{
+    color: white;
+    font-size: 97px;
+    padding: 42px 114px;
+}
+.mgtr3{
+    color: white;
+    font-size: 77px;
+    margin-left: 114px;
+    margin-top: -63px;
+}
+.mgtr4{
+    display: flex;
+    margin-top: 37px;
+}
+.mgtr5{
+    width: 717px;
+    height: 447px;
+    object-fit: cover;
+    background-size: cover;
+}
+.mgtr6{
+    font-size: 37px;
+}
+.mgtr7{
+    line-height: 30px;
+}
+.mgtr8{
+    margin-top: 24px;
+    margin-left: 63px;
+}
+.mgtr9{
+    font-size: 13px;
+    font-weight: 900;
+    margin-top: 9px;
+}
+.mgtr10{
+    display: flex;
+    margin-left: 87px;
+    margin-top: 47px;
+}
+.mgtr11{
+    line-height: 30px;
+    margin-top: 77px;
+}
+.mgtr12{
+    width: 777px;
+    height: 477px;
+    clip-path: polygon(0 0, 60% 0, 100% 42%, 100% 100%, 45% 100%, 0 50%);
+    object-fit: cover;
+    margin-left: 55px;
+    background-size: cover;
+}
+.mgtr13{
+    display: flex;
+}
+.mgtr14{
+    width: 777px;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(0 0, 60% 0, 100% 42%, 100% 100%, 49% 100%, 0 56%);
+}
+.mgtr15{
+    line-height: 30px;
+    margin-left: 77px;
+    margin-top: 107px;
+}
+.ba777{
+    width: 100%;
+    height: 87.8vh;
+    background: linear-gradient(black,rgb(77, 2, 2),rgb(0, 0, 0));
+    animation-name: css;
+    animation-duration: 1.7s;
+}
+.lgtr{
+    width: 1017px;
+    height: 507px;
+    object-fit: cover;
+    background-size: cover;
+}
+@keyframes css{
+    from{opacity: 0.3; letter-spacing: 0px;}
+    to{opacity: 1; letter-spacing: 9px;}
+}

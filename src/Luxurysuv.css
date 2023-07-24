@@ -1,0 +1,150 @@
+.lux{
+    background: url(glsmaybach600.jpg);
+    width: 100%;
+    height: 100vh;
+    margin-top: -67px;
+    background-size: cover;
+    object-fit: cover;
+}
+.lux1{
+    text-transform: uppercase;
+    font-size: 63px;
+    padding: 105px 100px;
+    color: white;
+}
+.lux2{
+    font-weight: 400;
+    color: white;
+    text-transform: uppercase;
+    margin-left: 100px;
+    margin-top: -120px;
+}
+.luxsuv2icon777{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid rgb(255, 255, 255);
+}
+.luxsuv2icon777:hover{
+    box-shadow: 0 0 12px rgb(255, 255, 255);
+}
+.luxsuv3icon777{
+    margin-left: 87px;
+    margin-top: 17px;
+}
+.lux3{
+    font-size: 37px;
+    color: white;
+}
+.lux4{
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 40px;
+    margin-top: 70px;
+    letter-spacing: 1px;
+}
+.lux5{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+.lux6{
+    line-height: 30px;
+    margin-top: 57px;
+}
+.lux7{
+    width: 777px;
+    height: 520px;
+    clip-path: circle(55%);
+    object-fit: cover;
+    background-size: cover;
+}
+.lux8{
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: 77px;
+}
+.lux9{
+    margin-top: 70px;
+}
+.luxlogo{
+    width: 177px;
+    height: 177px;
+    margin-left: 77px;
+    background-size: cover;
+    cursor: pointer;
+    object-fit: cover;
+}
+.luxl777ogo{
+    width: 177px;
+    height: 177px;
+    background-size: cover;
+    cursor: pointer;
+    object-fit: cover;
+}
+.luxlogo1{
+    width: 197px;
+    height: 190px;
+    background-size: cover;
+    margin-left: 7px;
+    object-fit: cover;
+    cursor: pointer;
+}
+.luxlogo2{
+    width: 370px;
+    height: 170px;
+    background-size: cover;
+    object-fit: cover;
+    cursor: pointer;
+}
+.luxlogo3{
+    width: 177px;
+    height: 177px;
+    cursor: pointer;
+    background-size: cover;
+    object-fit: cover;
+}
+.luxlogo4{
+    width: 177px;
+    height: 177px;
+    margin-top: 13px;
+    margin-left: 12px;
+    cursor: pointer;
+    background-size: cover;
+    object-fit: cover;
+}
+.lux10{
+  background-color: white;
+  padding: 27px 0px;
+  box-shadow: 0 0 7px rgb(114, 91, 0);
+}
+.luxcarimg{
+    width:  77%;
+    height: 77vh;
+    margin-left: 185px;
+    object-fit: cover;
+    background-size: cover;
+}
+.lux11{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 400;
+    margin-top: 77px;
+}
+.lux13{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.lux12{
+    font-size: 70px;
+    cursor: pointer;
+    width: max-content;
+}

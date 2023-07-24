@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a777{
+    background: linear-gradient(black,rgb(77, 2, 2),rgb(0, 0, 0));
+    width: 100%;
+    height: 87.8vh;
+    animation-name: css;
+    animation-duration: 1.7s;
+}
+@keyframes css{
+    from{opacity: 0.3; letter-spacing: 0px;}
+    to{opacity: 1; letter-spacing: 9px;}
+}
+.bug15{
+    width: 1077px;
+    height: 577px;
+    margin-top: -77px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bug17{
+    display: flex;
+    justify-content: center;
+}
+.bc777{
+    color: white;
+    font-size: 97px;
+    text-align: center;
+    padding-top: 27px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.bc{
+    background: url(chironback.webp);
+    width: 101.1%;
+    height: 89vh;
+    margin-left: -17px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bc2{
+    font-size: 117px;
+    padding: 47px 157px;
+}
+.bc3{
+    font-size: 57px;
+    margin-left: 161px;
+    margin-top: -85px;
+}
+.bc4{
+    display: flex;
+}
+.bc5{
+    width: 797px;
+    height: 527px;
+}
+.bc6{
+    font-size: 37px;
+}
+.bc7{
+    line-height: 30px;
+    margin-top: 7px;
+}
+.bc8{
+    margin-top: 97px;
+}
+.bc9{
+    font-size: 13px;
+    font-weight: 900;
+    margin-top: 17px;
+}
+.bc10{
+    font-size: 13px;
+    font-weight: 900;
+    margin-top: 7px;
+}
+.bc11{
+    width: 1177px;
+    height: 647px;
+    margin-top: -77px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bc12{
+    display: flex;
+    justify-content: center;
+}
+.bc13{
+    font-size: 57px;
+    margin-top: 57px;
+    margin-left: 117px;
+}
+.bc14{
+    display: flex;
+    margin-left: 117px;
+    margin-top: 17px;
+}
+.bc15{
+    color: #707070;
+    line-height: 27px;
+    font-weight: 900;
+}
+.bc16{
+    color: #707070;
+    margin-left: 127px;
+    line-height: 27px;
+    font-weight: 900;
+}
+.bc17{
+    width: 100%;
+    height: 97vh;
+    object-fit: cover;
+    background-size: cover;
+}
+.bc18{
+    font-size: 57px;
+    margin-top: 57px;
+    margin-left: 117px;
+}
+.bc19{
+    display: flex;
+    margin-top: 17px;
+    margin-left: 119px;
+}
+.bc20{
+    color: #707070;
+    line-height: 27px;
+    font-weight: 900;
+}
+.bc21{
+    color: #707070;
+    margin-left: 117px;
+    line-height: 27px;
+    font-weight: 900;
+}
+.aacimgg{
+    transition: 0.5s;
+}
+.aacimgg:hover{
+    transform: scale(1.2);
+}
+.bc22{
+    font-size: 57px;
+    text-align: center;
+    margin-left: 47px;
+    margin-top: 57px;
+}
+.bc23{
+    font-size: 43px;
+    margin-top: 17px;
+    margin-left: -117px;
+}
+.bc24{
+    text-align: center;
+    margin-top: 57px;
+    font-size: 67px;
+    font-weight: 400;
+}
+.bc25{
+    text-transform: uppercase;
+    font-size: 47px;
+    margin-left: 71px;
+    margin-top: 17px;
+    font-family: 'Cormorant Garamond', serif;
+}
+.bc26{
+    margin-top: -37px;
+}
+.bc27{
+    text-transform: uppercase;
+    font-size: 47px;
+    margin-left: 71.7px;
+    margin-top: 17px;
+    font-family: 'Cormorant Garamond', serif;
+}

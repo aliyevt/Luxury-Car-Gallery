@@ -1,0 +1,388 @@
+.tesla{
+    background: url(teslaplaid.jpg);
+    width: 100%;
+    height: 100vh;
+    margin-top: -77px;
+    object-fit: cover;
+    background-size: cover;
+}
+.tesla-h1{
+    text-transform: uppercase;
+    font-size: 67px;
+    margin-left: 100px;
+    padding-top: 121px;
+}
+.tesla-h1-1{
+    text-transform: uppercase;
+    margin-left: 102.5px;
+    margin-top: -9px;
+}
+.electric3icon777{
+     margin-left: 87px;
+     margin-top: 17px;
+}
+.electric2icon777:hover{
+     box-shadow: 0 0 7px black;
+}
+.electric2icon777{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.tesla-up{
+font-size: 37px;
+}
+.tesla-what{
+    font-size: 55px;
+    margin-top: 70px;
+    font-weight: 400;
+    text-align: center;
+}
+.tesla-what-2{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+}
+.tesla-flex{
+    display: flex;
+    margin-top: 50px;
+}
+.tesla-img1{
+    width: 759.5px;
+    clip-path:  polygon(0% 0%, 75% 0%, 100% 50%, 75% 100%, 0% 100%);
+    height: 400px;
+    object-fit: cover;
+    background-size: cover;
+}
+.tesla-img2{
+    width: 759.5px;
+    clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 25% 100%, 0% 50%);
+    height: 400px;
+    object-fit: cover;
+    background-size: cover;
+}
+.tesla-flex2{
+    display: flex;
+    margin-top: 25px;
+}
+.tesla-img3{
+    width: 800px;
+    height: 410px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(24% 0, 65% 0%, 100% 0, 93% 25%, 71% 100%, 0 100%, 0 55%);
+}
+.tesla-p1{
+  margin-left: 50px;
+   line-height: 30px;
+}
+.tesla-price-h1{
+    text-align: center;
+    margin-top: 70px;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 45px;
+}
+.btn-tesla{
+    padding: 20px 87px;
+    font-size: 25px;
+    border: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    margin-left: 50px;
+    transition: 0.5s;
+    margin-top: 30px;
+    background-color: white;
+    border: 1px solid gray;
+}
+.btn-tesla:hover{
+    background: black;
+    color: white;
+}
+.electric-price{
+    display: flex;
+    margin-top: 50px;
+}
+.tesla-price{
+    width: 759.7px;
+    overflow: hidden;
+    height: 410px;
+}
+.tesla-price img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.tesla-price:hover img{
+      transform: scale(1.2);
+}
+.eqs-price{
+    width: 759.7px;
+    height: 410px;
+    object-fit: cover;
+    overflow: hidden;
+    background-size: cover;
+}
+.eqs-price img{
+    object-fit: cover;
+    width: 100%;
+    cursor: pointer;
+    height: 100%;
+    background-size: cover;
+    transition: 0.5s;
+}
+.eqs-price:hover img{
+    transform: scale(1.2);
+}
+.plaid{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.plaid-p1{
+    margin-left: 40px;
+    line-height: 30px;
+}
+.plaid-btn{
+    padding: 15px 65px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 40px;
+}
+.p-plaid{
+    margin-top: 20px;
+    margin-left: 40px;
+    line-height: 30px;
+    font-style: italic;
+    animation-name: plaid;
+    animation-duration: 0.5s;
+}
+.p-eqs{
+    margin-top: 20px;
+    margin-left: 40px;
+    line-height: 30px;
+    font-style: italic;
+    animation-name: eqs;
+    animation-duration: 0.5s;
+}
+@keyframes plaid{
+    from{margin-left: -100px;}
+}
+@keyframes eqs{
+    from{margin-left: 200px;}
+}
+
+.electric-engine{
+    text-transform: uppercase;
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 70px;
+}
+.tesla-eng-flex{
+    display: flex;
+    margin-top: 70px;
+}
+.elec-engine{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+    user-select: none;
+}
+.elec-engine-div{
+    width: 700px;
+    height: 400px;
+    margin-left: 87px;
+    overflow: hidden;
+}
+.elec-eng-h2{
+    font-weight: 400;
+    font-size: 35px;
+    margin-left: 50px;
+}
+.p-engine{
+    margin-left: 50px;
+    line-height: 30px;
+}
+.review-h3{
+    margin-left: 50px;
+}
+.div-plus{
+    font-size: 50px;
+    cursor: pointer;
+    margin-left: 100px;
+    width: max-content;
+}
+.div-plus::after{
+    content: "ZOOM";
+    font-size: 20px;
+    position: relative;
+    top: -15px;
+    margin-left: 20px;
+}
+.div-minus{
+    font-size: 50px;
+    margin-left: 100px;
+    cursor: pointer;
+    width: max-content;
+}
+.div-minus::after{
+    content: "RESET";
+    font-size: 20px;
+    margin-left: 20px;
+    position: relative;
+    top: -15px;
+}
+.incdcr-flex{
+    display: flex;
+    margin-top: 20px;
+}
+.video-h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 70px;
+}
+.tesla-video{
+    width: 100%;
+    height: 100vh;
+    margin-top: 100px;
+    object-fit: cover;
+    background-size: cover;
+}
+.choose-h1{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 70px;
+    font-size: 45px;
+}
+.electric-down{
+     font-weight: 400;
+     text-align: center;
+     text-transform: uppercase;
+}
+.electric-icon-up{
+    font-size: 50px;
+    width: max-content;
+    margin: 10px auto;
+    cursor: pointer; 
+}
+.section-18{
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+   background-color: rgb(21, 21, 21);
+}
+.all-cars-1{
+    color: white;
+    padding-top: 30px;
+    font-size: 22px;
+    padding-left: 50px;
+    font-weight: 400;
+}
+.car-models{
+   padding-left: 50px;
+   color: white;
+}
+.car-models-1{
+    padding-left: 100px;
+    color: white;
+ }
+.all-models-1{
+    display: flex;
+}
+.instagram{
+    font-size: 22px;
+}
+.instagram a{
+    color: white;
+}
+.twitter{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.twitter a{
+    color: white;
+}
+.facebook{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.facebook a{
+    color: white;
+}
+.linkedin{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.linkedin a{
+    color: white;
+}
+.youtube{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.youtube a{
+    color: white;
+}
+.netflix{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.netflix a{
+    color: white;
+}
+.tiktok{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.tiktok a{
+    color: white;
+}
+.social{
+    display: flex;
+    margin-left: 250px;
+}
+.copy{
+    color: white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.allright{
+    color: white;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.elecmeqs{
+    display: flex;
+    margin-top: 57px;
+    justify-content: center;
+}
+.elecmeqs2{
+    background-color: white;
+    border: 1px solid gray;
+    text-transform: uppercase;
+    transition: 0.5s;
+    padding: 19px 83px;
+    cursor: pointer;
+    font-size: 24px;
+}
+.elecmeqs2:hover{
+    background-color: black;
+    color: white;
+}
+.elecmeqs2 a{
+    text-decoration: none;
+    color: black;
+}

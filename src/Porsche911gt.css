@@ -1,0 +1,197 @@
+.pgt{
+    background: url(porschegt4.jpg);
+    width: 100%;
+    height: 97vh;
+    object-fit: cover;
+    background-size: cover;
+}
+.pgt2{
+    color: white;
+    margin-left: 17px;
+    font-size: 117px;
+}
+.pgt3{
+    color: white;
+    font-size: 77px;
+    margin-left: 37px;
+}
+.pgt4{
+    padding: 47px 87px;
+}
+.pgt5{
+    display: flex;
+}
+.pgt6{
+    width: 767px;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+}
+.pgt7{
+    font-size: 37px;
+    margin-top: 57px;
+}
+.pgt8{
+    line-height: 30px;
+    margin-top: 10px;
+}
+.pgt9{
+    font-weight: 900;
+    font-size: 13px;
+    margin-top: 10px;
+}
+.pgt10{
+    font-weight: 900;
+    font-size: 13px;
+}
+.pgt11{
+    margin-left: 35px;
+}
+.pgt12{
+    width: 1177px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    box-shadow: 0 0 7px black;
+}
+.pgt13{
+    display: flex;
+    margin-left: 177px;
+}
+.pgt14{
+    text-align: center;
+    margin-top: 57px;
+    font-size: 37px;
+    text-transform: uppercase;
+}
+.pgt15{
+    display: flex;
+    justify-content: center;
+    margin-top: 37px;
+}
+.pgt16{
+    background-color: black;
+    padding: 17px 97px;
+    margin-left: 47px;
+    border: none;
+    font-size: 21px;
+    cursor: pointer;
+    color: white;
+    transition: 0.5s;
+}
+.pgt16:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 7px rgb(0, 0, 0);
+}
+.pgt17{
+    background-color: black;
+    width: 607px;
+    padding: 13px 0px;
+    font-size: 37px;
+    margin-top: 53px;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    clip-path: polygon(0 0, 100% 0%, 75% 100%, 0% 100%);
+    color: white;
+}
+.pgt18{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 177px;
+}
+.pgt19{
+    width: 1177px;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+}
+.pgt20{
+    width: 727px;
+    height: 477px;
+    object-fit: cover;
+    clip-path: polygon(0 0, 100% 0%, 53% 100%, 0% 100%);
+    background-size: cover;
+}
+.pgt21{
+    display: flex;
+    margin-top: 57px;
+}
+.pgt22{
+    line-height: 30px;
+    margin-top: 67px;
+    margin-left: 37px;
+}
+.pgt23{
+    width: 1287px;
+    height: 587px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(30% 0, 100% 0, 70% 100%, 0 100%, 0 62%);
+    margin-top: -1px;
+}
+.pgt24{
+    display: flex;
+    margin-left: -27px;
+}
+.pgt25{
+    line-height: 30px;
+    margin-top: 17px;
+}
+.pgt777{
+    width: 977px;
+    height: 500px;
+    object-fit: cover;
+    margin-top: -7px;
+    clip-path: polygon(37% 0, 100% 0, 100% 43%, 77% 100%, 0 100%);
+    background-size: cover;
+}
+.pgt27{
+    font-family: 'Roboto', sans-serif;
+}
+.pgt28{
+      margin-left: 122px;
+      margin-top: 82px;
+}
+.card2{
+    margin-top: 77px;
+    margin-left: 57px;
+}
+.item2img{
+    width: 95%;
+    height: 607px;
+    object-fit: cover;
+    background-size: cover;
+}
+.pgt29{
+    text-align: center;
+    margin-top: 27px;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.pgt30{
+    display: flex;
+    justify-content: center;
+}
+.pgt31{
+    font-size: 77px;
+    margin-top: 12px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.pgt31:hover{
+    transform: scale(1.1);
+}
+.lporsche911{
+    width: 997px;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+}
+.a777777{
+    background: linear-gradient(black,rgb(77, 2, 2),rgb(0, 0, 0));
+    width: 100%;
+    height: 657px;
+    animation-name: css;
+    animation-duration: 1.7s;
+}

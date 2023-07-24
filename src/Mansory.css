@@ -1,0 +1,550 @@
+.mansory{
+    background: url("lurus1.webp");
+    width: 100%;
+    height: 95vh;
+    margin-top: -27px;
+    object-fit: cover;
+    background-size: cover;
+}
+.mansory-h1{
+    font-size: 67px;
+    padding-top: 71px;
+    margin-left: 100px;
+}
+.mansory2-h1{
+    text-transform: uppercase;
+    margin-left: 102.5px;
+    margin-top: -8.7px;
+}
+.mansory1-icon{
+    font-size: 37px;
+}
+.mansory3icon777{
+    margin-left: 87px;
+    margin-top: 17px;
+}
+.mansory2icon777:hover{
+    box-shadow: 0 0 7px black;
+}
+.mansory2icon777{
+ width: 74px;
+height: 74px;
+padding-left: 17px;
+padding-top: 13px;
+border-radius: 50%;
+transition: 0.4s;
+cursor: pointer;
+border: 1px solid black;
+}
+.mansory-what-h1{
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.mansory-what-flex{
+    display: flex;
+    margin-top: 50px;
+}
+.img-aventador-mans{
+    width: 900px;
+    height: 410px;
+    clip-path: polygon(24% 0, 100% 0, 100% 48%, 80% 100%, 0 100%);
+    object-fit: cover;
+    background-size: cover;
+}
+.mansory-what-p1{
+    padding-left: 50px;
+    line-height: 30px;
+    font-style: italic;
+}
+.mans-speed{
+    font-size: 60px;
+    margin-left: -7px;
+}
+.mans-0-100{
+    font-size: 60px;
+    padding-left: 90px;
+}
+.mans-engine{
+    font-size: 60px;
+    padding-left: 115px;
+}
+.mans-features-flex{
+    display: flex;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.mans-engine-p1{
+    font-size: 20px;
+    padding-left: 55px;
+}
+.mans-speed-p1{
+    font-size: 20px;
+    margin-left: -50px;
+}
+.mans-0-100-p1{
+    font-size: 20px;
+    padding-left: 50px;
+}
+.mans-eng-rew{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 90px;
+    text-transform: uppercase;
+}
+.mansv12eng img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-size: cover;
+    user-select: none;
+}
+.mansv12eng{
+    width: 750px;
+    height: 420px;
+    overflow: hidden;
+}
+.mansv16eng img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    user-select: none;
+    background-size: cover;
+}
+.mansv16eng{
+    width: 750px;
+    height: 420px;
+    margin-left: 73px;
+    overflow: hidden;
+}
+.mansory-v-12engine{
+    display: flex;
+    margin-top: 57px;
+}
+.v12eng-p1{
+    padding-top: 30px;
+    padding-left: 70px;
+    line-height: 29px;
+    user-select: none;
+}
+.manszoomicon{
+    font-size: 50px;
+    width: max-content;
+    cursor: pointer;
+}
+.mansreseticon{
+    font-size: 50px;
+    width: max-content;
+     margin-left: 50px;
+    cursor: pointer;
+}
+.v12eng-h1{
+    padding-left: 70px;
+    user-select: none;
+    font-weight: 400;
+}
+.mansplusreset{
+    display: flex;
+    margin-top: 15px;
+    width: max-content;
+    margin-left: 60px;
+}
+.review-h1-mansory{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 100px;
+    user-select: none;
+    text-transform: uppercase;
+}
+.slide-container{
+    margin-top: 50px;
+}
+.urus-system{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.urus-sound{
+    width: 100%;
+    height: 120vh;
+    margin-top: 50px;
+    clip-path: polygon(31% 0, 100% 0, 100% 59%, 63% 100%, 0 100%, 0 47%);
+    background: linear-gradient(rgb(19, 19, 19),rgb(238, 235, 235),rgb(23, 22, 22));
+}
+.urus-start-btn{
+    width: 400px;
+    transform: translate(135%, 25%);
+    height: 400px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-weight: 900;
+    font-size: 60px;
+    border-radius: 50%;
+    background: linear-gradient(black, #550000,black);
+}
+.more-power{
+    text-align: center;
+    font-weight: 900; 
+    margin-top: 150px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 70px;
+    font-size: 55px;
+    text-transform: uppercase;
+}
+.mansory-power{
+    width: 100%;
+    height: 95vh;
+    margin-top: -5px;
+    background: linear-gradient(rgb(19, 19, 19),rgb(238, 235, 235),rgb(23, 22, 22));
+    clip-path: polygon(0 0, 30% 0, 63% 0, 100% 53%, 100% 100%, 35% 100%, 0 48%);
+}
+.more-hpower{
+    background:linear-gradient(black, #550000, black);
+    padding: 50px 90px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-left: 100px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    color: white;
+    font-size: 30px;
+}
+.hpower-h1{
+    font-size: 70px;
+    margin-left: 500px;
+}
+.moreFast{
+    background:linear-gradient(black, #550000, black);
+    padding: 50px 90px;
+    border-radius: 50%;
+    margin-left: 500px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    color: white;
+    font-size: 30px;
+}
+.hfast-h1{
+    font-size: 70px;
+    margin-left: 730px;
+}
+.moreFast0-100{
+    background:linear-gradient(black, #550000, black);
+    padding: 50px 90px;
+    border-radius: 50%;
+    margin-left: 700px;
+    margin-top: 20px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    color: white;
+    font-size: 30px;
+}
+.back-mansnews{
+    background: black;
+    width: 700px;
+    height: 80px;
+    padding: 10px;
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    clip-path: polygon(0 0, 100% 0, 61% 100%, 0% 100%);
+    font-family: 'Roboto', sans-serif;
+    margin-top: 150px;
+}
+.mlambnews{
+    width: 633px;
+    height: 260px;
+    margin-top: 50px;
+    margin-left: 130px;
+    object-fit: cover;
+}
+.mlambnewsh1{
+    margin-left: 130px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-top: 50px;
+}
+.mlambnewsflex{
+    display: flex;
+}
+.mlambdate{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 45px;
+    letter-spacing: 1px;
+}
+.mlambprem{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.mlambbtn{
+    padding: 15px 70px;
+    background-color: white;
+    border: 1px solid gray;
+    cursor: pointer;
+    margin-top: 45px;
+    font-size: 20px;
+    margin-left: 50px;
+    transition: 0.5s;
+}
+.mlambbtn:hover{
+    color: white;
+    background-color: black;
+}
+.mansnewsbtn{
+    padding: 15px 80px;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    width: max-content;
+    height: max-content;
+    transition: 0.5s;
+}
+
+.mansnewscenter{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.mansup{
+    text-align: center;
+    margin-top: 17px;
+    font-weight: 400;
+}
+.mansiconup{
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    width: max-content;
+    height: max-content;
+    cursor: pointer;
+}
+.flexmansup{
+    display: flex;
+    justify-content: center;
+}
+.mansh1pricecom{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+}
+.section-manspriceurus{
+    display: flex;
+    margin-top: 30px;
+}
+.mansnorurusprice{
+    width: 759.7px;
+    height: 410px; 
+    overflow: hidden;
+    margin-top: 50px;
+}
+.mansnorurusprice img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.mansnorurusprice:hover img{
+    transform: scale(1.2);
+}
+.mans2urusprice{
+    width: 759.7px;
+    height: 410px; 
+    overflow: hidden;
+    margin-top: 50px;
+}
+.mans2urusprice img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.mans2urusprice:hover img{
+    transform: scale(1.2);
+}
+.normallamburus{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.mansorylamborghiniurus{
+    margin-left: 70px;
+    margin-top: 50px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+.norpriceforurus{
+    margin-top: 50px;
+   font-weight: 400;
+    margin-left: 50px;
+}
+.norurusfeatures{
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding: 15px 60px;
+    margin-left: 50px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.norurusp1{
+    font-style: italic;
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 50px;
+    line-height: 30px;
+    animation-name: norurus;
+    animation-duration: 0.5s;
+}
+@keyframes norurus{
+    from{margin-left: -100px;}
+}
+
+
+
+
+
+.section-18{
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+   background-color: rgb(21, 21, 21);
+}
+.all-cars-1{
+    color: white;
+    padding-top: 30px;
+    font-size: 22px;
+    padding-left: 50px;
+    font-weight: 400;
+}
+.car-models{
+   padding-left: 50px;
+   color: white;
+}
+.car-models-1{
+    padding-left: 100px;
+    color: white;
+ }
+.all-models-1{
+    display: flex;
+}
+.instagram{
+    font-size: 22px;
+}
+.instagram a{
+    color: white;
+}
+.twitter{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.twitter a{
+    color: white;
+}
+.facebook{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.facebook a{
+    color: white;
+}
+.linkedin{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.linkedin a{
+    color: white;
+}
+.youtube{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.youtube a{
+    color: white;
+}
+.netflix{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.netflix a{
+    color: white;
+}
+.tiktok{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.tiktok a{
+    color: white;
+}
+.social{
+    display: flex;
+    margin-left: 250px;
+}
+.copy{
+    color: white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.allright{
+    color: white;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.App {
+    width: 97%;
+    height: 100vh;
+    text-align: center;
+    margin-left: 17px;
+  }
+  
+  .itemimg {
+    width:  717px; 
+    height: 447px;
+    object-fit: cover;
+    margin-left: 10px;  
+    transition: 0.5s;
+  }
+  .card {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: 'Antic Slab', serif;
+    letter-spacing: 1.2px;
+  }
+  .card777{
+      font-size: 27px;
+      margin-top: 17px;
+  }
+  .pName{
+    padding-bottom: 39px;
+    font-size: 35px;
+  }

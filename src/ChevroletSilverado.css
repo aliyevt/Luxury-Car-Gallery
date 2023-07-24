@@ -1,0 +1,63 @@
+.ch{
+    background: url(ch3.jpg);
+    width: 100%;
+    height: 91vh;
+    object-fit: cover;
+    background-size: cover;
+}
+.ch2{
+    font-size: 97px;
+    padding: 37px 107px;
+    letter-spacing: 1px;
+}
+.ch3{
+    font-size: 57px;
+    margin-left: 113px;
+    margin-top: -67px;
+}
+.ch4{
+    font-size: 40px;
+    margin-top: 24px;
+    margin-left: 37px;
+}
+.ch5{
+    line-height: 30px;
+    margin-left: 4px;
+    margin-left: 43px;
+    margin-top: 7px;
+}
+.ch6{
+    font-size: 13px;
+    font-weight: 900;
+    margin-left: 37px;
+    margin-top: 17px;
+}
+.ch8{
+    width: 759.7px;
+    height: 477px;
+    clip-path: polygon(74% 0, 100% 28%, 100% 100%, 75% 100%, 0 100%, 0% 60%, 0 0);
+    object-fit: cover;
+    background-size: cover;
+}
+.ch9{
+    width: 759.7px;
+    height: 477px;
+    object-fit: cover;
+    clip-path: polygon(100% 0, 100% 28%, 100% 100%, 75% 100%, 0 100%, 0 28%, 24% 0);
+    background-size: cover;
+}
+.ch7{
+    display: flex;
+}
+.ch10{
+    margin-left: 79px;
+}
+.ch11{
+    margin-left: -4px;
+}
+.ch12{
+    margin-left: 157px;
+}
+.ch13{
+    margin-left: 63px;
+}

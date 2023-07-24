@@ -1,0 +1,687 @@
+/*.header{
+    background: url('./urus2.jpeg');
+    width: 100% auto;
+    height: 100vh;
+    background-size: cover;
+}
+.header-h1{
+    color: white;
+    font-size: 60px;
+    padding: 45px 70px;
+    font-weight: 300;
+    animation-duration: 0.9s;
+    animation-name: this;
+}
+.header-h2{
+    color: white;
+    font-weight: 200;
+    padding-left: 70px;
+    font-size: 27px;
+    margin-top: -40px;
+    animation-duration: 0.7s;
+    animation-name: the;
+}
+.header-h2-1{
+    color: white;
+    font-weight: 400;
+    font-size: 35px;
+    margin-top: 270px;
+    margin-left: 970px;
+}
+
+@keyframes the{
+    from{margin-left: -130px;}
+}
+@keyframes this{
+    from{margin-left: 130px;}
+}
+.luxury-btn{
+    padding: 15px 75px;
+    border: none;
+    margin-left: 1078px;
+    background-color: white;
+    font-size: 18px;
+    color: black;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.7s; 
+}
+.section-1-h1{
+    font-size: 60px;
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 400;
+}
+.section-1-h2{
+    font-weight: 200;
+    font-size: 30px;
+    text-align: center;
+}
+
+.section-2{
+    background: url('revuelto.jpeg');
+    width: 100%;
+    height: 100vh;
+   background-size: cover;
+   margin-top: 50px;
+}
+.section-2-p1{
+    color: white;
+    padding: 30px 50px; 
+    line-height: 30px;
+}
+.hyperclass{
+    display: flex;
+}
+.section-2-p2{
+    color: white;
+    padding-top: 30px;
+    margin-left: 450px;
+    line-height: 30px;
+}
+.section-2-h2{
+    color: white;
+    font-weight: 300;
+    margin-left: 50px;
+    font-style: italic;
+}
+.section-2-btn1{
+    padding: 20px 70px;
+    border: none;
+    margin-left: 60px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: 0.7s;
+    margin-top: 10px;
+}
+.section-2-btn1 a{
+    text-decoration: none;
+}
+.section-3-h1{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: 400;
+}
+.section-4{
+    background: url('eqs.jpeg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    margin-top: 70px;
+}
+.section-4-p1{
+    color: white;
+    padding: 15px 25px;
+    line-height: 30px;
+}
+.electricclass{
+    display: flex;
+}
+.section-4-p2{
+    color: white;
+    padding-top: 10px;
+    margin-left: 400px;
+    line-height: 30px;
+}
+
+.section-4-h2{
+    color: white;
+    font-weight: 300;
+    margin-left: 50px;
+    margin-top: 250px;
+    font-style: italic;
+}
+.section-4-btn1{
+    padding: 20px 70px;
+    border: none;
+    margin-left: 60px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: 0.7s;
+    margin-top: 10px;
+}
+.section-4-btn1 a{
+    text-decoration: none;
+}
+.section-5-h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+    font-weight: 400;
+}
+.section-6{
+    background: url('./urus.jpeg');
+    width: 100%;
+    height: 120vh;
+    margin-top: 50px;
+    background-size: cover;
+}
+.section-6-p1{
+    color: white;
+    padding: 15px 25px;
+    line-height: 30px;
+}
+.suvclass{
+    display: flex;
+}
+.section-6-h2{
+    font-weight: 300;
+    color: white;
+    margin-top: 15px;
+    font-style: italic;
+   margin-left: 25px;
+}
+.section-6-btn-1{
+    padding: 20px 70px;
+    border: none;
+    margin-left: 25px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: 0.7s;
+    margin-top: 10px;
+}
+.section-6-second-h2{
+    text-transform: uppercase;
+    color: white;
+    font-style: italic;
+    font-weight: 300;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.section-6-btn-2{
+    padding: 15px 55px;
+    border: none;
+    margin-left: 200px;
+    cursor: pointer;
+    font-size: 17px;
+    transition: 0.7s;
+    margin-top: 10px;
+}
+.section-6-third-h2{
+    text-transform: uppercase;
+    color: white;
+    font-style: italic;
+    margin-top: 540px;
+    font-weight: 300;
+    margin-left: 20px;
+}
+
+.section-6-btn-3{
+    padding: 15px 55px;
+    border: none;
+    margin-left: 20px;
+    cursor: pointer;
+    font-size: 17px;
+    transition: 0.7s;
+    margin-top: 20px;
+}
+.section-7-h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+    font-weight: 400;
+}
+.section-7-h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.section-7-icon{
+    text-align: center;
+    font-size: 60px;
+}
+.section-8{
+    background: url('./phantom.jpeg');
+    width: 100%;
+    height: 120vh;
+    background-size: cover;
+    object-fit: cover;
+    margin-top: 50px;
+}
+.section-8-p1{
+    padding: 20px 30px;
+    line-height: 30px;
+}
+.section-8-h2{
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 300;
+    margin-left: 25px;
+}
+.section-8-btn-1{
+    padding: 17px 60px;
+    border: none;
+    font-size: 19px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: 0.7s;
+    margin-left: 25px;
+}
+.section-9-h1{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.section-9-icon{
+    text-align: center;
+    font-size: 60px;
+}
+.section-9-h2{
+    text-align: center;
+    font-size: 37px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+.section-10{
+    background: url('./cullinanmansory.jpeg');
+    width: 100%;
+    height: 120vh;
+    background-size: cover;
+    object-fit: cover;
+    margin-top: 20px;
+}
+.section-10-p1{
+    padding: 30px 40px;
+    font-style: italic;
+    line-height: 30px;
+}
+.mansoryclass{
+    display: flex;
+}
+.section-10-h2{
+    text-transform: uppercase;
+    font-style: italic;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-left: 20px;
+}
+.section-10-btn-1{
+    padding: 17px 60px;
+    border: none;
+    font-size: 19px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: 0.7s;
+    margin-left: 25px;
+}
+.section-11-icon{
+    text-align: center;
+    font-size: 60px;
+    margin-top: 50px;
+}
+.section-11-h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 60px;
+    text-transform: uppercase ;
+}
+.section-11-h2{
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+    text-transform: uppercase ;
+}
+.section-12{
+    background: url('concept.jpeg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    margin-top: 20px;
+    object-fit: cover;
+}
+
+
+.section-12-p1{
+    color: white;
+    padding: 15px 20px;
+    line-height: 30px;
+    margin-left: 230px;
+}
+.section-12-h2{
+    text-transform: uppercase;
+    font-style: italic;
+    color: white;
+    padding: 20px 25px;
+    margin-left: 20px;
+    font-weight: 300;
+}
+.conceptclass{
+    display: flex;
+}
+.section-12-btn-1{
+    padding: 17px 60px;
+    border: none;
+    font-size: 19px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    transition: 0.7s;
+    margin-left: 50px;
+}
+.section-13-h1{
+    font-size: 65px;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.section-14-h1{
+    font-size: 110px;
+    font-weight: 400;
+    margin-left: 100px;
+}
+.section-15-img{
+    width: 1266px;
+    height: 550px;
+    margin-left: 100px;
+    background-size: cover;
+    object-fit: cover;
+}
+.section-15-date-1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.section-15-tail{
+    margin-left: 100px;
+}
+
+.section-15-h1{
+    margin-left: 100px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.section-15-p1{
+    margin-left: 100px;
+    margin-top: 15px;
+    line-height: 30px;
+    color: rgb(109, 108, 108);
+}
+
+.section-15-btn-1{
+    padding: 17px 60px;
+    border: none;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 19px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.7s;
+    margin-left: 310px;
+}
+
+.newsclass{
+    display: flex;
+}
+
+.huracannews{
+   width: 633px;
+    height: 260px;
+    object-fit: cover;
+    margin-left: 100px;
+    margin-top: 55px;
+}
+
+.news-2class{
+    display: flex;
+}
+.news-2-date{
+      font-weight: 400;
+      color: gray;
+      margin-left: 50px;
+      margin-top: 50px;
+}
+.news-2-h1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.news-2-btn-1{
+    padding: 15px 67px;
+    border: none;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.7s;
+    margin-top: 30px;
+    margin-left: 50px;   
+}
+.divonews{
+    width: 633px;
+    height: 260px;
+    object-fit: cover;
+    margin-left: 100px;
+    margin-top: 65px;
+}
+.news-3class{
+    display: flex;
+}
+.news-3-date{
+    font-weight: 400;
+    color: gray;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.news-3-h1{
+    margin-left: 50px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.news-3-btn-1{
+    padding: 15px 67px;
+    border: none;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.7s;
+    margin-top: 30px;
+    margin-left: 50px;   
+}
+
+.news-4-btn-1{
+    padding: 15px 67px;
+    color:  white;
+    background-color: black;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.7s;
+    margin-top: 100px;
+}
+.homeaboveh1{
+     font-weight: 400;
+     text-transform: uppercase;
+     text-align: center;
+     margin-top: 50px;
+}
+.iconup{
+    font-size: 60px; 
+    margin-top: 20px;
+    width: max-content;
+    cursor: pointer;
+    margin-left: 720px;
+}
+.section-16{
+    display: flex;
+    justify-content: center;
+}
+.section-17{
+    width: 100%;
+    height: 600px;
+    margin-top: 160px;
+    background-color: rgb(21, 21, 21);
+}
+.all-cars-1{
+    color: white;
+    padding-top: 30px;
+    font-size: 22px;
+    padding-left: 50px;
+    font-weight: 400;
+}
+.car-models{
+   padding-left: 50px;
+   color: white;
+}
+.car-models-1{
+    padding-left: 100px;
+    color: white;
+ }
+.all-models-1{
+    display: flex;
+}
+.instagram{
+    font-size: 22px;
+}
+.instagram a{
+    color: white;
+}
+.twitter{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.twitter a{
+    color: white;
+}
+.facebook{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.facebook a{
+    color: white;
+}
+.linkedin{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.linkedin a{
+    color: white;
+}
+.youtube{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.youtube a{
+    color: white;
+}
+.netflix{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.netflix a{
+    color: white;
+}
+.tiktok{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.tiktok a{
+    color: white;
+}
+.social{
+    display: flex;
+    margin-left: 250px;
+}
+.copy{
+    color: white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.allright{
+    color: white;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.icon-up{
+    width: max-content;
+    height: max-content;
+    font-size: 60px;
+    cursor: pointer;
+    margin-left: 150px;
+}
+
+.galselc{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-size: 40px;
+}
+.contgra0{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.contgra{
+    background-color: rgb(226, 222, 222);
+    width: 81%;
+    height: 395px;
+    box-shadow: 0 0 50px black;
+}
+.copflex{
+    display: flex;
+}
+.copimg{
+    width: 197%;
+    height: 297px;
+    margin-top: 30px;
+    object-fit: cover;
+    background-size: cover;
+}
+.pcop{
+    line-height: 30px;
+     margin-top: 50px;
+     margin-left: 70px;
+}
+.galcars{
+    width: 81%;
+    box-shadow: 0 0 50px black;
+    height: 300px;
+    background-color: rgb(226, 222, 222);
+}
+.galcarsflex{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+.galadve{
+    width: 970px;
+    height: 250px;
+    margin-top: 25px;
+    object-fit: cover;
+    background-size: cover;
+}
+.galhref{
+    display: flex;
+    justify-content: center;
+}
+.hdownapp{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 47px;
+    font-weight: 400;
+}
+.appflex{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.appfleximg{
+    margin-left: 50px;
+}
+
+
+
+*/
+
+

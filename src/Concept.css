@@ -1,0 +1,522 @@
+.concept{
+    background: url(conc777img.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 106vh;
+    margin-top: -127px;
+    object-fit: cover;
+}
+.conc-h1{
+    font-size: 67px;
+    text-transform: uppercase;
+    padding-top: 167px;
+    margin-left: 100px;
+    color: white;
+}
+.conc2-h1{
+    font-weight: 400;
+    color: white;
+    margin-top: -9px;
+    margin-left: 102.5px;
+}
+.conciconup{
+    font-size: 37px;
+    color: white;
+}
+.conc3icon777{
+    margin-left: 87px;
+    margin-top: 17px;
+}
+.conc2icon777:hover{
+    box-shadow: 0 0 8px rgb(255, 255, 255);
+}
+.conc2icon777{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid rgb(255, 255, 255);
+
+}
+.conch1flex{
+    display: flex;
+}
+.conc3h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 50px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.conc1img{
+    width: 850px;
+    height: 510px;
+    object-fit: cover;
+    clip-path: polygon(0 0, 30% 0, 63% 0, 100% 53%, 100% 100%, 35% 100%, 0 48%);
+}
+.concimgflex{
+    display: flex;
+    margin-top: 70px;
+}
+.concwhat-p1{
+   line-height: 27px;
+}
+.concwhat-p2{
+    line-height: 27px;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.concrevih1{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 70px;
+}
+.concnews{
+    background: black;
+    width: 700px;
+    height: 80px;
+    padding: 10px;
+    text-align: center;
+    font-size: 55px;
+    color: white;
+    clip-path: polygon(0 0, 100% 0, 61% 100%, 0% 100%);
+    font-family: 'Roboto', sans-serif;
+    margin-top: 150px;
+}
+.concnewsmerc{
+    margin-left: 130px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.conczoommerc{
+    width: 633px;
+    overflow: hidden;
+    height: 290px;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.conczoommerc img{
+    width: 100%;
+    height: 100%;
+    transition: 0.5s;
+    cursor: pointer;
+    background-size: cover;
+    object-fit: cover;
+}
+.conczoommerc:hover img{
+    transform: scale(1.2);
+}
+.concmercflex{
+    display: flex;
+}
+.concpremmercp1{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 45px;
+    letter-spacing: 1px;
+}
+.concpremmerch1{
+    font-family: 'Roboto', sans-serif;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.concpremmercbtn{
+    padding: 15px 70px;
+    background-color: white;
+    border: 1px solid gray;
+    cursor: pointer;
+    margin-top: 75px;
+    font-size: 20px;
+    margin-left: 50px;
+    transition: 0.5s;
+}
+.concpremmercbtn:hover{
+    color: white;
+    background-color: black;
+}
+.concprembmwbtn{
+    padding: 15px 70px;
+    background-color: white;
+    border: 1px solid gray;
+    cursor: pointer;
+    margin-top: 75px;
+    font-size: 20px;
+    margin-left: 50px;
+    transition: 0.5s;
+}
+.concprembmwbtn:hover{
+    color: white;
+    background-color: black;
+}
+.concpremmcbtn{
+    padding: 15px 70px;
+    background-color: white;
+    border: 1px solid gray;
+    cursor: pointer;
+    margin-top: 75px;
+    font-size: 20px;
+    margin-left: 50px;
+    transition: 0.5s;
+}
+.concpremmcbtn:hover{
+    color: white;
+    background-color: black;
+}
+.concnewsbtn{
+    padding: 15px 80px;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    width: max-content;
+    height: max-content;
+    transition: 0.5s;
+}
+.concnewscenter{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.conctruckh1{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-top: 50px;
+}
+.conctruck{
+    width: 800px;
+    height: 520px;
+    background-size: cover;
+    object-fit: cover;
+    clip-path: polygon(0 0, 100% 0, 100% 66%, 62% 100%, 0 100%);
+}
+.conctruckflex{
+    display: flex;
+    margin-top: 50px;
+    height: 519px;
+}
+.conctruck2-h1{
+     font-family: 'Roboto', sans-serif; 
+     text-transform: uppercase;
+     font-size: 45px;
+     margin-left: 50px;
+}
+.conctruck3-h1{
+     font-family: 'Roboto', sans-serif; 
+     text-transform: uppercase;
+     font-size: 45px;
+     margin-left: 50px;
+     margin-top: 50px;
+}
+.conctruckbtn{
+    padding: 20px 70px;
+    border: none;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    border: 1px solid gray;
+    cursor: pointer;
+    margin-left: 50px;
+    font-size: 23px;
+    transition: 0.4s;
+}
+.cmerctruck{
+    width: 507px;
+    margin-left: 50px;
+    padding: 30px;
+    margin-top: 20px;
+    height: 190px;
+    animation-name: cmtruck;
+    border-radius: 7px;
+    display: flex;
+    animation-duration: 0.5s;
+    background-color: white;
+    box-shadow: 0 0 5px black;
+}
+@keyframes cmtruck{
+     from{margin-left: 180px;}
+}
+.bsxlg{
+    font-size: 21px;
+    cursor: pointer;
+    padding-left: 10px;
+    width: max-content;
+    height: max-content;
+    margin-top: -14px;
+}
+.cmerctruckp1{
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    padding-top: 7px;
+    padding-left: 15px;
+}
+.linkmerctruck{
+cursor: pointer;
+border: none;
+font-size: 17px;
+margin-top: 10px;
+padding: 7px 30px;
+transition: 0.5s;
+color: white;
+background-color: black;
+}
+.concspectruck{
+    width: 800px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(0 0, 62% 0, 100% 39%, 100% 100%, 0 100%);
+}    
+.cspectruckflex{
+    display: flex;
+    height: 519px;
+}
+.cspectruckh1{
+    font-family: 'Roboto', sans-serif; 
+    text-transform: uppercase;
+    margin-left: 50px;
+    font-size: 45px;
+    margin-top: 130px;
+}
+.cspectruckbtn{
+    padding: 20px 70px;
+    border: none;
+    background-color: white;
+    color: black;
+    margin-top: 20px;
+    border: 1px solid gray;
+    cursor: pointer;
+    margin-left: 50px;
+    font-size: 23px;
+    transition: 0.4s;
+}
+.cspectruck{
+    width: 500px;
+    height: 182px;
+    animation-name: cspectrucka;
+    animation-duration: 0.5s;
+    border-radius: 7px;
+    display: flex;
+    margin-left: 50px;
+    margin-top: 20px;
+    box-shadow: 0 0 5px rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+.bsxlg777{
+    font-size: 21px;
+    padding-top: 17px;
+    width: max-content;
+    height: max-content;
+    cursor: pointer;
+    padding-left: 21px;
+}
+@keyframes cspectrucka{
+    from{margin-left: 180px;}
+}
+.cspectruckp1{
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+    padding-top: 32px;
+    padding-left: 47px;
+}
+.conceptteslatruck{
+    background: url("conceptcybertruck.jpg");
+    background-size: cover;
+    width: 100%;
+    margin-top: 100px;
+    height: 100vh;
+    object-fit: cover;
+}
+.concteslacyberh1{
+    color: white;
+    font-family: 'Roboto', sans-serif; 
+    font-size: 45px;
+    padding: 100px;
+}
+.concteslacyber2h1{
+    color: white;
+    font-weight: 400;
+    font-size: 30px;
+    margin-left: 105px;
+    margin-top: -100px;
+}
+.cwhatcyber{
+    font-weight: 400;
+    padding: 15px 70px;
+    font-size: 25px;
+    margin-top: 50px;
+    border: 1px solid gray;
+    transition: 0.5s;
+    background-color: white;
+    cursor: pointer;
+}
+.cwhatcyberbtn{
+    display: flex;
+    justify-content: center;
+}
+.flexcyberbtn{
+    display: flex;
+    justify-content: center;
+}
+.conccyberabouth1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 45px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.linkcyberflex{
+    display: flex;
+    justify-content: center;
+}
+.conccyberlinkbtn{
+    padding: 15px 90px;
+    border: 1px solid gray;
+    letter-spacing: 1px;
+    transition: 0.5s;
+    margin-top: 30px;
+    font-size: 25px;
+    background-color: white;
+    cursor: pointer;
+}
+.conceptscrollup{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+.concarrowup{
+    font-size: 67px;
+    width: max-content;
+    height: max-content;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.concarrowupflex{
+    display: flex;
+    justify-content: center;
+}
+.section-18{
+    width: 100%;
+    height: 600px;
+    margin-top: 50px;
+   background-color: rgb(21, 21, 21);
+}
+.all-cars-1{
+    color: white;
+    padding-top: 30px;
+    font-size: 22px;
+    padding-left: 50px;
+    font-weight: 400;
+}
+.car-models{
+   padding-left: 50px;
+   color: white;
+}
+.car-models-1{
+    padding-left: 100px;
+    color: white;
+ }
+.all-models-1{
+    display: flex;
+}
+.instagram{
+    font-size: 22px;
+}
+.instagram a{
+    color: white;
+}
+.twitter{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.twitter a{
+    color: white;
+}
+.facebook{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.facebook a{
+    color: white;
+}
+.linkedin{
+    font-size: 22px;
+    padding-left: 10px;
+}
+.linkedin a{
+    color: white;
+}
+.youtube{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.youtube a{
+    color: white;
+}
+.netflix{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.netflix a{
+    color: white;
+}
+.tiktok{
+    font-size: 22px;
+    padding-left: 15px;
+}
+.tiktok a{
+    color: white;
+}
+.social{
+    display: flex;
+    margin-left: 250px;
+}
+.copy{
+    color: white;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.allright{
+    color: white;
+    margin-left: 40px;
+    margin-top: 5px;
+}
+.concadd2{
+    width: 777px;
+    height: 507px;
+    margin-top: -107px;
+    object-fit: cover;
+    background-size: cover;
+}
+.concadd3{
+    padding-left: 67px;
+    padding-top: 17px;
+    line-height: 27px;
+}
+.cyberbtndiv{
+    width: 100%;
+    height: 400px;
+    text-transform: uppercase;
+    padding: 40px;
+    margin-top: 50px;
+    animation-name: cyberanim;
+    animation-duration: 0.5s;
+    display: flex;
+    box-shadow: 0 0 7px black;
+    background: white;
+}
+@keyframes cyberanim{
+      from{margin-left: -577px;}
+}
+.conc777x{
+    font-size: 27px;
+    color: gray;
+    cursor: pointer;
+}

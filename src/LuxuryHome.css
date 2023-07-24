@@ -1,0 +1,873 @@
+.luxhome{
+    background: url("chiron2.jpeg");
+    width: 100% ;
+    height: 97vh;
+    margin-top: -57px;
+    background-size: cover; 
+}
+.luxhome2{
+    font-size: 67px;
+    font-weight: 400;
+    color: black;
+    padding: 97px 87px;
+}
+.luxhome3{
+    font-weight: 400;
+    color: black;
+    margin-left: 88px;
+    margin-top: -97px;
+}
+.luxhome4{
+    font-size: 37px;
+}
+.l2uxhome4:hover{
+    box-shadow: 0 0 7px black;
+}
+.l2uxhome4{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.lu3xhome4{
+    margin-left: 77px;
+    margin-top: 13px;
+}
+.luxhome5{
+    text-align: center;
+    font-weight: 400;
+    font-size: 77px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 77px;
+}
+.luxhome6{
+   /* width: 759.7px;*/
+    width: 759px;
+    height: 477px;
+    object-fit: cover;
+    clip-path: polygon(67% 0, 100% 48%, 100% 100%, 29% 100%, 0 71%, 0 0);
+    background-size: cover;
+}
+.luxhome7{
+    display: flex;
+    margin-top: 77px;
+}
+.luxhome8{
+   /* width: 759.7px;*/
+    width: 759px;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(100% 0, 100% 71.5%, 71% 100%, 0 100%, 0 48%, 31% 0);
+}
+.luxhome9{
+    background-color: rgb(241, 238, 238);
+    width: 100%;
+    height: 400px;
+}
+.luxhome10{
+    text-align: center;
+    padding-top: 37px;
+    line-height: 30px;
+}
+.luxhome11{
+    display: flex;
+}
+.luxhome12{
+    width: 760px;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(100% 0, 100% 59%, 71% 100%, 0 100%, 0 48%, 31% 0);
+}
+.luxhome13{
+    width: 760px;
+    height: 477px;
+    object-fit: cover;
+    clip-path: polygon(67% 0, 100% 45%, 100% 100%, 34% 100%, 0 59%, 0 0);
+    background-size: cover;
+}
+.luxhome14{
+    background-color: black;
+    width: 100%;
+    margin-top: 107px;
+    height: 190vh;
+}
+.luxhome15{
+    color: white;
+    font-weight: 400;
+    font-size: 77px;
+    text-align: center;
+    padding-top: 77px;
+    letter-spacing: 2px;
+}
+.luxhome16{
+   /* width: 777px;*/
+   width: 757px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(100% 0, 100% 68%, 63% 100%, 0 100%, 0 59%, 0 0);
+}
+.luxhome17{
+    display: flex;
+    margin-top: 50px;
+}
+.luxhome18{
+    color: white;
+    padding-left: 50px;
+    font-size: 17px;
+    line-height: 30px;
+}
+.luxhome19{
+    display: flex;
+    margin-top: 57px;
+    margin-left: 97px;
+}
+.luxhome20{
+    color: white;
+    font-size: 17px;
+    line-height: 30px;
+}
+.luxhome21{
+    /*width: 777px;*/
+    width: 770px;
+    margin-left: 106.5px;
+    height: 507px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(100% 0, 100% 68%, 100% 100%, 0 100%, 0 40%, 36% 0);
+}
+.luxhome22{
+    font-weight: 400;
+    font-size: 77px;
+    text-align: center;
+    padding-top: 77px;
+    letter-spacing: 2px;
+}
+.luxhome23{
+    display: flex;
+    margin-top: 77px;
+    margin-left: 50px;
+}
+.luxhome24{
+   /* width: 760px;*/
+   width: 757px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: circle(58%);
+}
+.luxhome25{
+    line-height: 30px;
+    font-size: 17px;
+    margin-left: 87px;
+    text-align: center;
+}
+.luxhome26{
+    display: flex;
+    margin-top: 70px;
+}
+.luxhome27{
+    line-height: 30px;
+    font-size: 17px;
+    margin-left: 87px;
+    padding-top: 27px;
+    text-align: center;
+}
+.luxhome28{
+   width: 757px;
+    height: 520px;
+    object-fit: cover;
+    margin-left: 57px;
+    background-size: cover;
+    clip-path: circle(58%);
+}
+.luxhome29{
+    font-weight: 400;
+    font-size: 77px;
+    text-align: center;
+    letter-spacing: 2px;
+    color: white;
+    padding-top: 97px;
+}
+.luxhome30{
+    width: 577px;
+    height: 410px;
+    background-color: white;
+    clip-path: polygon(40% 0, 64% 0, 45% 32%, 66% 32%, 20% 100%, 38% 46%, 19% 46%);
+}
+.luxhome32{
+    width: 577px;
+    height: 410px;
+    transform: scaleX(-1);
+    background-color: white;
+    clip-path: polygon(40% 0, 64% 0, 45% 32%, 66% 32%, 20% 100%, 38% 46%, 19% 46%);
+}
+.luxhome31{
+    background-color: black;
+    margin-top: 107px;
+    width: 100%;
+    height: 249vh;
+}
+.luxhome33{
+    display: flex;
+    margin-top: 77px;
+}
+.luxhome34{
+    color: white;
+    font-size: 77px;
+    font-weight: 400;
+    text-align: center;
+}
+.luxhome35{
+    width: 757px;
+    height: 417px;
+    object-fit: cover;
+    clip-path: polygon(0 0, 81% 0, 100% 30%, 100% 70%, 81% 99%, 0 98%);
+    background-size: cover;
+}
+.luxhome37{
+    display: flex;
+    margin-top: 77px;
+}
+.luxhome36{
+    color: white;
+    line-height: 30px;
+    font-size: 17px;
+    margin-left: 107px;
+}
+.luxhome38{
+    display: flex;
+    margin-left: 97px;
+    margin-top: 70px;
+}
+.luxhome39{
+    color: white;
+    line-height: 30px;
+    font-size: 17px;
+}
+.luxhome40{
+    width: 757px;
+    height: 417px;
+    clip-path: polygon(23% 0, 100% 0, 100% 100%, 23% 100%, 0 72%, 0 28%);
+    object-fit: cover;
+    margin-left: 64.1px;
+    background-size: cover;
+}
+.luxhome41{
+    text-align: center;
+    font-weight: 400;
+    font-size: 77px;
+    letter-spacing: 2px;
+    margin-top: 77px;
+    text-transform: uppercase;
+}
+.luxhome42{
+    width: 756px;
+    height: 447px;
+    clip-path: polygon(25% 0, 100% 0, 100% 70%, 73% 100%, 0 100%, 0 31%);
+    object-fit: cover;
+    background-size: cover;
+}
+.luxhome43{
+    display: flex;
+    margin-top: 70px;
+}
+.luxhome44{
+    width: 756px;
+    height: 447px;
+    clip-path: polygon(0 0, 70% 0, 100% 31%, 100% 100%, 31% 100%, 0 70%);
+    object-fit: cover;
+    background-size: cover;
+}
+.luxhome45{
+    background-color: rgb(241, 238, 238);
+    width: 100%;
+    height: 400px;
+}
+.luxhome46{
+    line-height: 30px;
+    text-align: center;
+    padding-top: 50px;
+}
+.luxhome47{
+    background-color: black;
+    width: 100%;
+    height: 217vh;
+}
+.luxhome48{
+    color: white;
+    font-size: 77px;
+    text-align: center;
+    padding-top: 70px;
+    letter-spacing: 2px;
+}
+.luxhome49{
+    color: white;
+    text-align: center;
+    font-weight: 400;
+    font-size: 35px;
+}
+.luxhome50{
+    color: white;
+    font-size: 57px;
+}
+.luxhome51{
+    display: flex;
+    justify-content: center;
+}
+.luxhome52{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+.luxhome54{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.luxhome53{
+    width: 77%;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+}
+.luxhome55{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 70px;
+}
+.luxhome56{
+    line-height: 30px;
+    color: white;
+    text-align: center;
+    font-size: 17px;
+}
+.luxhome57{
+    width: 717px;
+    height: 410px;
+    object-fit: cover;
+    margin-left: 90px;
+    background-size: cover;
+}
+.luxhome58{
+    font-size: 65px;
+    font-weight: 400;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.luxhome59{
+    font-size: 110px;
+    font-weight: 400;
+    margin-left: 100px;
+}
+.luxhome60{
+    width: 1266px;
+    height: 550px;
+    margin-left: 100px;
+    background-size: cover;
+    object-fit: cover;
+}
+.luxhome61{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.luxhome62{
+    margin-left: 100px;
+}
+.section-15-h1{
+    margin-left: 100px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.section-15-p1{
+    margin-left: 100px;
+    margin-top: 15px;
+    line-height: 30px;
+    color: rgb(109, 108, 108);
+}
+.section-15-btn-1{
+    padding: 17px 60px;
+    border: none;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 19px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.7s;
+    margin-left: 310px;
+}
+.newsclass{
+    display: flex;
+}
+.luxhome67{
+    background-color: black;
+    padding: 17px 77px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    font-weight: 400;
+    margin-top: 97px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.luxhome67:hover{
+    background-color: white;
+    box-shadow: 0 0 50px black;
+    color: black;
+}
+.luxhome68{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.luxhome69{
+    background-color: rgb(226, 222, 222);
+    width: 81%;
+    height: 395px;
+    box-shadow: 0 0 50px black;
+}
+.luxhome70{
+    display: flex;
+}
+.homeaboveh1{
+     margin-top: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.section-13-h1{
+    font-size: 65px;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.section-14-h1{
+    font-size: 110px;
+    font-weight: 400;
+    margin-left: 100px;
+}
+.section-15-img{
+    width: 1266px;
+    height: 550px;
+    margin-left: 100px;
+    background-size: cover;
+    object-fit: cover;
+}
+.section-15-date-1{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.section-15-tail{
+    margin-left: 100px;
+}
+
+.section-15-h1{
+    margin-left: 100px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.section-15-p1{
+    margin-left: 100px;
+    margin-top: 15px;
+    line-height: 30px;
+    color: rgb(109, 108, 108);
+}
+
+.section-15-btn-1{
+    padding: 17px 60px;
+    border: none;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 19px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.7s;
+    margin-left: 310px;
+}
+
+.newsclass{
+    display: flex;
+}
+
+.huracannews{
+   width: 633px;
+    height: 260px;
+    object-fit: cover;
+    margin-left: 100px;
+    margin-top: 55px;
+}
+
+.news-2class{
+    display: flex;
+}
+.news-2-date{
+      font-weight: 400;
+      color: gray;
+      margin-left: 50px;
+      margin-top: 50px;
+}
+.news-2-h1{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.news-2-btn-1{
+    padding: 15px 67px;
+    border: none;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.7s;
+    margin-top: 30px;
+    margin-left: 50px;   
+}
+.divonews{
+    width: 633px;
+    height: 260px;
+    object-fit: cover;
+    margin-left: 100px;
+    margin-top: 65px;
+}
+.news-3class{
+    display: flex;
+}
+.news-3-date{
+    font-weight: 400;
+    color: gray;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+
+.news-3-h1{
+    margin-left: 50px;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.news-3-btn-1{
+    padding: 15px 67px;
+    border: none;
+    background-color: white;
+    border: 1px solid gray;
+    font-size: 18px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: 0.7s;
+    margin-top: 30px;
+    margin-left: 50px;   
+}
+
+.news-4-btn-1{
+    padding: 15px 67px;
+    color:  white;
+    background-color: black;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    transition: 0.7s;
+    margin-top: 100px;
+}
+.section-16{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.icon-up{
+    width: max-content;
+    height: max-content;
+    font-size: 60px;
+    cursor: pointer;
+    margin-left: 150px;
+}
+
+.galselc{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-size: 40px;
+}
+.contgra0{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.contgra{
+    background-color: rgb(226, 222, 222);
+    width: 81%;
+    height: 395px;
+    box-shadow: 0 0 50px black;
+}
+.copflex{
+    display: flex;
+}
+.copimg{
+    width: 197%;
+    height: 297px;
+    margin-top: 30px;
+    object-fit: cover;
+    background-size: cover;
+}
+.pcop{
+    line-height: 30px;
+     margin-top: 50px;
+     margin-left: 70px;
+}
+.galcars{
+    width: 81%;
+    box-shadow: 0 0 50px black;
+    height: 300px;
+    background-color: rgb(226, 222, 222);
+}
+.galcarsflex{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+}
+.galadve{
+    width: 970px;
+    height: 250px;
+    margin-top: 25px;
+    object-fit: cover;
+    background-size: cover;
+}
+.galhref{
+    display: flex;
+    justify-content: center;
+}
+.hdownapp{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 47px;
+    font-weight: 400;
+}
+.appflex{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.appfleximg{
+    margin-left: 50px;
+}
+.homeaboveh1{
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+.iconup{
+   font-size: 77px; 
+   margin-top: 20px;
+   width: max-content;
+   cursor: pointer;
+   margin-left: 720px;
+}
+.main-container{
+     background-color: rgb(221, 224, 224);
+     height: 477px auto;
+     margin-top: 77px;
+     padding-bottom: 59px;
+     box-shadow: 0 0 7px black;
+}
+.comment-text{
+    font-size: 47px;
+    padding-top: 37px;
+    text-align: center;
+}
+.input-box{
+    border: 1px solid gray;
+    resize: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    padding: 11px 17px;
+    font-size: 17px;
+    margin-top: 17px;
+    font-weight: 900;
+    margin-left: 37px;
+    background-color: rgb(255, 255, 255);
+}
+.error777{
+    margin-top: 7px;
+    background-color: white;
+    width: 28%;
+    font-weight: 900;
+    padding-top: 1.5px;
+    padding-left: 25px;
+    height: 44px;
+    animation-name: l777;
+    margin-left: 38px;
+    animation-duration: 0.7s;
+    position: relative;
+    box-shadow: 0 0 7px black;
+}
+.error777::before{
+    content: "";
+    background-color: rgb(255, 255, 255);
+    clip-path: polygon(0 100%, 100% 100%, 51% 0);
+    width: 21px;
+    height: 17px;
+    margin-top: -18px;
+    position: absolute;
+}
+.commtextarea{
+    margin-left: 387px;
+    height: 99px;
+}
+.commbtn{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 57px;
+}
+.comment-button{
+    padding: 17px 97px;
+    margin-top: 77px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    color: white;
+    transition: 0.7s; 
+    font-size: 23px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+.comment-button:hover{
+    background-color: white;
+    box-shadow: 0 0 7px black;
+    color: black;
+}
+.cCancel{
+   font-size: 31px;
+   background-color: white;
+   padding-left: 9px;
+   padding-right: 9px;
+   box-shadow: 0 0 5px black;
+   padding-top: 7px;
+   margin-left: 17px;
+   border-radius: 50%;
+   position: relative;
+   transition: 0.5s;
+   bottom: 37px;
+   cursor: pointer;
+}
+.cCancel:hover{
+   background-color: black;
+   color: white;
+}
+.comment-container{
+    background-color: black;
+    width: 57% ;
+    color: white;
+    padding: 7px 11px;
+    font-size: 19px;
+    margin-top: 27px;
+    overflow-wrap: break-word;
+}
+.commcontflex{
+    display: flex;
+    justify-content: center;
+}
+.del{
+    color: rgb(255, 255, 255);
+    font-size: 31px;
+    cursor: pointer;
+    height: max-content;
+    transition: 0.4s;
+    margin-top: 27px;
+    margin-left: -57px;
+    padding-top: 7px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.del:hover{
+    transform: scale(1.2);
+    color: rgb(255, 255, 255);
+}
+@keyframes l777{
+    from{margin-left: 7px;}
+}
+.errIcon{
+   color: orange;
+   font-size: 25px;
+   position: relative;
+   right: 7px;
+   top: 6px;
+}
+.userC{
+    font-size: 24px;
+    position: relative;
+    top: 7px;
+}
+.cSpan{
+    padding-left: 11px;
+}

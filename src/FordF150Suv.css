@@ -1,0 +1,304 @@
+.f150off{
+    background: url(fordsuv1500.jpg);
+    width: 100%;
+    height: 97vh;
+    object-fit: cover;
+    background-size: cover;
+}
+.f150off2{
+    font-size: 127px;
+    padding: 30px 127px;
+}
+.f150off3{
+    font-size: 57px;
+    margin-left: 132px;
+    margin-top: -67px;
+}
+.f150off4{
+    text-align: center;
+    font-weight: 400;
+    font-size: 47px;
+    text-transform: uppercase;
+    margin-top: 77px;
+}
+.f150off5{
+    display: flex;
+    justify-content: center;
+    margin-top: 37px;
+}
+.f150off6{
+    background-color: rgb(0, 0, 0);
+    padding: 17px 70px;
+    margin-left: 27px;
+    border: none;
+    color: white;
+    font-size: 21px;
+    cursor: pointer;
+    transition: 0.5s;
+    font-weight: 400;
+}
+.f150off6:hover{
+    box-shadow: 0 0 57px black;
+    color: black;
+    background-color: white;
+}
+.f150off7{
+    display: flex;
+    margin-left: 50px;
+    margin-top: 57px;
+}
+.f150off8{
+    width: 570px;
+    height: 370px;
+    object-fit: cover;
+    background-size: cover;
+}
+.f150off9{
+    font-size: 40px;
+    font-weight: 400;
+    padding-top: 50px;
+    letter-spacing: 1px;
+}
+.f150off10{
+    line-height: 30px;
+    margin-left: 4px;
+    margin-top: 10px;
+}
+.f150off11{
+    font-weight: 900;
+    font-size: 13px;
+    margin-top: 17px;
+}
+.f150off12{
+    width: 759.7px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    margin-top: 77px;
+    clip-path: polygon(81% 0, 100% 35%, 100% 69%, 81% 100%, 0 100%, 0% 0);
+}
+.f150off14{
+      display: flex;
+      margin-top: 10px;
+}
+.f150off13{
+    width: 759.7px;
+    height: 520px;
+    object-fit: cover;
+    background-size: cover;
+    clip-path: polygon(22% 0, 0 35%, 0 69%, 20% 100%, 100% 100%, 100% 0);
+    margin-top: 77px;
+}
+.f150off15{
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 77px;
+    font-size: 57px;
+}
+.f150off16{
+    display: flex;
+    margin-left: 115px;
+    margin-top: 50px;
+}
+.f150off17{
+    color: brown;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.f150off18{
+    font-size: 47px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+.f150off19{
+    font-weight: 400;
+    margin-left: 100px;
+    letter-spacing: 1px;
+    background-color: black;
+    width: 270px;
+    text-align: center;
+    padding: 7px;
+    color: white;
+}
+.f150off20{
+    margin-left: 100px;
+    margin-top: 27px;
+    font-weight: 900;
+}
+.f150off21{
+    font-weight: 400;
+    letter-spacing: 1px;
+    background-color: black;
+    width: 270px;
+    text-align: center;
+    padding: 7px;
+    color: white;
+    margin-left: 77px;
+}
+.f150off22{
+    font-weight: 900;
+    margin-top: 27px;
+    margin-left: 77px;
+}
+.f150off23{
+    font-weight: 400;
+    letter-spacing: 1px;
+    background-color: black;
+    width: 270px;
+    text-align: center;
+    padding: 7px;
+    color: white;
+}
+.f150off24{
+    display: flex;
+    margin-left: 457px;
+    margin-top: 17px;
+}
+.f150off25{
+    font-weight: 400;
+    letter-spacing: 1px;
+    background-color: black;
+    width: 350px;
+    text-align: center;
+    padding: 7px;
+    color: white;
+    margin-top: 27px;
+    margin-left: 77px;
+} 
+.f150off26{
+    font-weight: 900;
+    margin-top: 27px;
+}
+.f150off27{
+    font-weight: 900;
+    margin-top: 27px;
+    margin-left: 77px;
+}
+.f150off29{
+    display: flex;
+    margin-top: 57px;
+    margin-left: 124px;
+}
+.f150off28{
+    color: brown;
+    letter-spacing: 1px;
+    font-size: 40px;
+    font-weight: 400;
+}
+.f150off30{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 40px;
+}
+.f150off31{
+    font-weight: 400;
+    letter-spacing: 1px;
+    background-color: black;
+    width: 307px;
+    text-align: center;
+    padding: 7px;
+    color: white;
+    margin-left: 77px;
+}
+.f150off32{
+    display: flex;
+    margin-top: 67px;
+    margin-left: 124px;
+}
+.f150off33{
+    color: brown;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 40px;
+}
+.f150off34{
+    background-color: rgba(250, 249, 241, 0.954);
+    border: 1px solid rgb(225, 220, 220);
+    width: 817px;
+    height: 377px;
+    border-top-left-radius: 17px;
+    border-bottom-left-radius: 17px;
+    margin-left: 77px;
+}
+.f150off36{
+    display: flex;
+    justify-content: center;
+    margin-top: 57px;
+}
+.f150off37{
+    margin-left: 67px;
+}
+.f150off38{
+    display: flex;
+    margin-left: 97px;
+    margin-top: 10px;
+}
+.f150off40{
+    margin-left: 79px;
+}
+.f150off41{
+    display: flex;
+    margin-left: 94px;
+    margin-top: 10px;
+}
+.f150off43{
+    margin-left: 101px;
+}
+.f150off44{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 94px;
+}
+.f150off46{
+    margin-left: 123px;
+}
+.f150off47{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 93px;
+}
+.f150off49{
+    margin-left: 59px;
+}
+.f150off50{
+    text-align: center;
+    margin-top: 77px;
+    font-weight: 400;
+    font-size: 37px;
+}
+.f150off51{
+    background-color: black;
+    padding: 17px 87px;
+    text-decoration: none;
+    font-size: 25px;
+    letter-spacing: 1px;
+    color: white;
+    transition: 0.5s;
+    text-align: center;
+}
+.f150off52{
+    display: flex;
+    margin-top: 37px;
+    justify-content: center;
+}
+.f150off51:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 50px black;
+}
+.f150off53{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 37px;
+    margin-top: 57px;
+}
+.f150off54{
+    display: flex;
+    justify-content: center;
+    margin-top: 17px;
+}
+.f150off55{
+    font-size: 67px;
+    cursor: pointer;
+    width: max-content;
+}

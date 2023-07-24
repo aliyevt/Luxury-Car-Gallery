@@ -1,0 +1,9 @@
+.galabove2{
+    transition: 0.5s;
+    width: max-content;
+    height: max-content;
+    cursor: pointer;
+}
+.galabove2:hover{
+      transform: scale(1.15);
+}

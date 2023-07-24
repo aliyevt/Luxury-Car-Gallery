@@ -1,0 +1,96 @@
+.bm{
+    background: url(bm1.jpeg);
+    width: 100%;
+    height: 97vh;
+    margin-top: -53px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bm2{
+    font-size: 104px;
+    padding: 77px 117px;
+}
+.bm3{
+    font-size: 47px;
+    margin-left: 122px;
+    margin-top: -107px;
+}
+.bm4{
+    display: flex;
+    margin-left: 27px;
+}
+.bm5{
+    width: 727px;
+    height: 477px; 
+    object-fit: cover;
+    background-size: cover;
+}
+.bm6{
+    line-height: 30px;
+    margin-top: 7px;
+}
+.bm7{
+    margin-top: 37px;
+}
+.bm8{
+    margin-left: 77px;
+    margin-top: 67px;
+}
+.bm9{
+    display: flex;   
+    margin-left: 177px;
+    margin-top: -37px;
+}
+.bm10{
+    width: 457px;
+    height: 347px; 
+    object-fit: cover;
+    background-size: cover;
+}
+.bm11{
+    line-height: 30px;
+    margin-left: 97px;
+    margin-top:  21px;
+}
+.bm12{
+    font-size: 13px;
+    font-weight: 900;
+    margin-left: 97px;
+    margin-top: 24px;
+}
+.bm13{
+    font-size: 13px;
+    font-weight: 900;
+    margin-left: 97px;
+    margin-top: 10px;
+}
+.bm14{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 37px;
+    margin-top: 67px;
+}
+.bm15{
+    display: flex;
+    justify-content: center;
+    margin-top: 37px;
+}
+.bm16{
+    background-color: black;
+    padding: 15px 70px;
+    color: white;
+    font-size: 22px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    margin-left: 27px;
+    border: none;
+    transition: 0.5s;
+}
+.bm16:hover{
+    background-color: white;
+    color: black;
+    box-shadow: 0 0 7px black;
+}
+.bm17{
+    margin-left: 80px;
+}

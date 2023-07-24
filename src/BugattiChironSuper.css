@@ -1,0 +1,121 @@
+.bcss{
+    background: url(bug38.webp);
+    width: 100%;
+    height: 89vh;
+    object-fit: cover;
+    background-size: cover;
+}
+.bcss2{
+    font-size: 89px;
+    padding: 37px 117px;
+    color: white;
+}
+.bcss3{
+    font-size: 43px;
+    margin-left: 121px;
+    margin-top: -57px;
+    color: white;
+}
+.bcss4{
+    color: white;
+    font-size: 57px;
+    padding: 67px 147px;
+}
+.bcss5{
+    color: white;
+    margin-left: 152px;
+    margin-top: -77px;
+}
+.bcss6{
+    background-color: black;
+    width: 100%;
+    height: 347px;
+}
+.bcss7{
+    color: white;
+    margin-top: 37px;
+    margin-left: 154px;
+}
+.bcss8{
+    width: 100%;
+    height: 477px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bcss9{
+    background-color: black;
+    width: 100%;
+    height: 181vh;
+    margin-top: -7px;
+}
+.bcss10{
+    display: flex;   
+    margin-top: 57px;
+}
+.bcss11{
+    color: white;
+    font-size: 53px;
+    padding: 17px 137px;
+}
+.bcss12{
+    color: white;
+    margin-left: 141px;
+    margin-top: -23px;
+}
+.bcss13{
+    color: white;
+    line-height: 28px;
+    margin-top: 9px;
+}
+.bcss14{
+    width: 759px;
+    height: 507px;
+    margin-left: 76px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bcss15{
+    color: white;
+    margin-top: 117px;
+}
+.bcss16{
+    margin-left: 140px;
+}
+.bcss17{
+    display: flex;
+}
+.bcss18{
+    width: 759px;
+    height: 507px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bcss19{
+    color: white;
+}
+.bcss20{
+    color: white;
+    line-height: 28px;
+    margin-top: 7px;
+}
+.bcss21{
+    margin-left: 97px;
+    margin-top: 112px;
+}
+.iteem2img{
+    width: 760px;
+    height: 507px;
+    object-fit: cover;
+    background-size: cover;
+}
+.bcss22{
+    display: flex; 
+}
+.bcss23{
+    margin-left: 74px;
+    margin-top: 137px;
+}
+.bcss24{
+    padding-top: 7px;
+    line-height: 28px;
+}

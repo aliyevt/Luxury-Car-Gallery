@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin-left: 47px;  
+    user-select: none;
+    position: relative;  
+    bottom: 37px;
+}
+.navbar a:hover{
+  font-weight: 900;
+}
+.navbar{
+  height: 90px;
+  padding-top: 20px;
+  position: sticky;
+  top: 0;
+  background-color: #181818;
+  z-index: 99;
+}
+/*.fixed{
+  background-color: #181818;
+  width: 100%;
+  padding: 20px;
+  margin-top: -25px;
+}*/
+.hide-menu{
+  width: 100%;
+  color: rgb(255, 255, 255);
+  margin-top: -23px;
+  background-color: #181818;
+  animation-name: a;
+  animation-duration: 0.5s;
+}
+@keyframes a{
+  from{margin-left: -377px;}
+}
+.brand-column{
+  margin-left: 0px;
+  position: relative;
+  top: 47px;
+}
+.icon{
+  color: white;
+  margin-left: 37px;
+  font-size: 30px;
+  cursor: pointer;
+  position: relative;
+  bottom: 29px;
+}
+.la{
+  font-family: 'Cormorant Garamond', serif;
+  color: white;
+  position: relative;
+  bottom: 18.7px;
+  font-size: 77px;
+  margin-left: 77px;
+  user-select: none;
+}
+.dm{
+  margin-left: 17px;
+}
+.dm:hover{
+  font-weight: 900;
+}
+.icon-2{
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  position: relative;
+  bottom: 29px;
+  padding-left: 37px;
+}
+.ctime{
+  color: white;
+  margin-left: 37px;
+  font-size: 25px;
+  position: relative;
+  user-select: none;
+  bottom: 34px;
+  letter-spacing: 2px;
+}
+.menu-brand{
+  font-size: 27px;
+  color: rgb(255, 255, 255);
+  margin-left: 44px;
+  user-select: none;
+  position: relative;
+  top: -37px;
+}
+.menu-btn-1{
+  padding: 12px 40px;
+  background-color: rgb(255, 255, 255);
+  font-size: 17px;
+  margin-top: 10px;
+  transition: 0.3s;
+  width: 200px;
+  border: none;
+  cursor: pointer;
+}
+.menu-btn-1 a{
+  color: black;
+}
+.menu-btn-2{
+  padding: 12px 40px;
+  background-color: white;
+  font-size: 17px;
+  margin-top: 10px;
+  transition: 0.3s;
+  border: none;
+  width: 200px;
+  cursor: pointer;
+}
+.menu-btn-2 a{
+  color: black;
+}
+.menu-btn-3{
+  padding: 12px 40px;
+  background-color: white;
+  font-size: 17px;
+  margin-top: 10px;
+  width: 200px;
+  transition: 0.3s;
+  border: none;
+  cursor: pointer;
+}
+.menu-btn-3 a{
+  color: black;
+}
+.menu-btn-4{
+  padding: 12px 40px;
+  background-color: white;
+  font-size: 17px;
+  margin-top: 10px;
+  transition: 0.3s;
+  border: none;
+  width: 200px;
+  cursor: pointer;
+}
+.menu-btn-4 a{
+  color: black;
+}
+.menu-btn-5{
+  padding: 12px 40px;
+  background-color: white;
+  font-size: 17px;
+  margin-top: 10px;
+  transition: 0.3s;
+  border: none;
+  width: 200px;
+  cursor: pointer;
+}
+.menu-btn-5 a{
+  color: black;
+}
+.menu-btn-6{
+  padding: 12px 40px;
+  background-color: white;
+  font-size: 17px;
+  margin-top: 10px;
+  transition: 0.3s;
+  border: none;
+  width: 200px;
+  cursor: pointer;
+}
+.menu-btn-6 a{
+  color: black;
+}
+.menu-btn-7{
+  padding: 12px 40px;
+  background-color: white;
+  font-size: 17px;
+  margin-top: 10px;
+  transition: 0.3s;
+  border: none;
+  width: 200px;
+  cursor: pointer;
+}
+.menu-btn-7 a{
+  color: black;
+}
+.icon-incre{
+   font-size: 25px;
+   margin-top: 25px;
+   margin-left: 70px;
+   cursor: pointer;
+   width: max-content;
+   height: max-content;
+}
+.icon-decre{
+  font-size: 25px;
+  margin-top: 25px;
+  margin-left: 40px;
+  width: max-content;
+  height: max-content;
+  cursor: pointer;
+}
+.line-1{
+  margin-top: 40px;
+  background-color: gray;
+  width: 100%;
+  height: 0.7px;
+  opacity: 0.5;
+}
+.flex-social{
+  display: flex;
+  margin-left: -117px;
+  margin-top: 17px;
+}
+.social{
+  font-size: 47px;
+  margin-top: 15px;
+}
+.medias-1{
+  display: flex;
+  margin-left: 201px;
+  margin-top: 44px;
+}
+.medias-2{
+  display: flex;
+  margin-top: -57px;
+  margin-left: 201px;
+}
+.text-size{
+ font-size: 20px;
+ margin-top: 25px;
+ margin-left: -52px;
+}
+.icon-flex{
+  display: flex;
+  margin-left: 400px;
+  margin-top: -7px;
+}
+.settings{
+  margin-left: 347px;
+  font-size: 20px;
+  margin-top: -134px;
+}
+.a7ir{
+  width: 97px;
+  height: 97px;
+  margin-left: 103px;
+  margin-top: 47px;
+  transition: 0.4s;
+  object-fit: cover;
+}
+.a7ir:hover{
+  box-shadow: 0 0 7px rgb(255, 255, 255);
+  padding: 5px;
+}
+.instagram-2 a{
+  font-size: 27px;
+}
+.twitter-2 a{
+  font-size: 27px;
+}
+.facebook-2 a{
+  font-size: 27px;
+}
+.linkedin-2 a{
+  font-size: 27px;
+}
+.youtube-2 a{
+  font-size: 27px;
+}
+.netflix-2 a{
+  font-size: 27px;
+}
+.tiktok-2 a{
+  font-size: 27px;
+}
+.discord-2 a{
+  font-size: 27px;
+}
+.webchat-2 a{
+  font-size: 27px;
+}
+.air{
+  width: 57px;
+  height: 40px;
+}
+.apprank{
+  background-color: white;
+  padding: 9px 47px;
+  margin-top: -17px;
+  color: black;
+  margin-left: 17px;
+  text-align: center;
+  transition: 0.4s;
+  text-transform: uppercase;
+}
+.apprank:hover{
+  background-color: black;
+  color: white;
+  box-shadow: 0 0 7px rgb(255, 255, 255);
+}
+.rankcol{
+  display: flex;
+  flex-direction: column;
+}
+.apprank2{
+  background-color: white;
+  padding: 9px 47px;
+  color: black;
+  text-align: center;
+  transition: 0.4s;
+  margin-top: 21px;
+  margin-left: 17px;
+}
+.apprank2:hover{
+  background-color: black;
+  color: white;
+  box-shadow: 0 0 7px rgb(255, 255, 255);
+}
+

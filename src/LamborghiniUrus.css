@@ -1,0 +1,370 @@
+.lurus1{
+    background: url(urusmansory.webp);
+    width: 100%;
+    height: 95vh;
+    margin-top: -24px;
+    object-fit: cover;
+    background-size: cover;
+}
+.lurus2{
+    color: white;
+    font-size: 90px;
+    padding: 61px 100px;
+    letter-spacing: 3px;
+}
+.lurus2icon777{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid white
+}
+.lurus2icon777:hover{
+    box-shadow: 0 0 7px rgb(255, 255, 255);
+}
+.lurus3{
+    color: white;
+    font-size: 50px;
+    margin-left: 104px;
+    margin-top: -87px;
+    letter-spacing: 2px;
+}
+.lurus4{
+    font-size: 37px;
+    color: white;
+}
+.lurus3icon777{
+    margin-left: 87px;
+    margin-top: 10px;
+}
+.lurus6{
+    object-fit: cover;
+    margin-top: 100px;
+}
+.lurus7{
+    line-height: 30px;
+    margin-top: 20px;
+}
+.lurus5{
+    display: flex;
+}
+.lurus8{
+    width: 800px;
+    height: 520px;
+    object-fit: cover;
+    clip-path: polygon(0 0, 74% 0, 33.5% 100%, 0 100%);
+    background-size: cover;
+}
+.lurus9{
+    display: flex;
+    flex-direction: column;
+}
+.lurus10{
+    width: 1270px;
+    height: 550px;
+    clip-path: polygon(0 54%, 21% 0, 100% 0, 70% 100%, 0 100%);
+    object-fit: cover;
+    background-size: cover;
+}
+.lurus11{
+    width: 1000px;
+    height: 500px;
+    margin-left: 519.5px;
+    margin-top: -245px;
+    object-fit: cover;
+    clip-path: polygon(37% 0, 100% 0, 100% 43%, 77% 100%, 0 100%);
+    background-size: cover;
+}
+.lurus12{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.lurus13{
+    line-height: 27px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.lurus14{
+    font-size: 60px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    margin-top: 100px;
+    text-align: center;
+}
+.lurus16{
+    width: 1000px;
+    height: 600px;
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0, 56% 100%, 0 100%);
+    object-fit: cover;
+}
+.lurus15{
+    display: flex;
+}
+.lurus17{
+    margin-top: 150px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+}
+.lurus18{
+    line-height: 30px;
+    margin-top: 20px;
+}
+.lurus19{
+    font-size: 55px;
+    margin-left: -4px;
+    margin-top: -14px;
+    cursor: pointer;
+}
+.lurus20{
+    display: flex;
+    margin-top: 10px;
+}
+.lurus21{
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.lurus22{
+    display: flex;
+    margin-top: -10px;
+    background-color: rgb(240, 240, 240);
+    justify-content: center;
+    animation-name: l1;
+    animation-duration: 0.5s;
+    padding: 50px;
+}
+@keyframes l1{
+    from{margin-left: -500px;}
+}
+.lurus27{
+    margin-left: 100px;
+}
+.lurus23{
+    margin-left: 79px;
+}
+.lurus24{
+    font-family: 'Roboto', sans-serif;
+}
+.lurus28{
+    font-family: 'Roboto', sans-serif;
+}
+.lurus25{
+    margin-top: 20px;
+}
+.lurus26{
+    margin-top: 60px;
+}
+.lurus26-1{
+    margin-top: 20px;
+}
+.lurushr1{
+     margin-top: 20px;
+     opacity: 0.7;
+}
+.lurus29{
+    margin-top: 5px;
+}
+.lurus30{
+    margin-top: 29px;
+}
+.lurus31{
+    display: flex;
+
+
+ justify-content: center;
+    background-color: rgb(240, 240, 240);
+    padding: 50px;
+}
+.lurus32{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+.lurus36{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+.lurus40{
+    margin-left: 120px;
+}
+.lurus33{
+    margin-top: 15px;
+}
+.lurus34{
+    margin-top: 60px;
+}
+.lurushr2{
+     margin-top: 20px;
+}
+.lurus35{
+    margin-top: 20px;
+}
+.lurus41{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 14px;
+}
+.lurus45{
+    font-size: 47px;
+    cursor: pointer;
+   margin-top: -10px;
+}
+.lurus44{
+    display: flex;
+    justify-content: center;
+    animation-name: l1;
+    animation-duration: 0.5s;
+    margin-bottom: 15px;
+}
+.l777urus45{
+    width: 74px;
+    height: 74px;
+    padding-left: 13px;
+    padding-top: 18px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid black;
+}
+.bdivospeedl-h1{
+    font-weight: 400;
+    margin-left: 5px;
+}
+.lurus50{
+    display: flex;
+    margin-left: 390px;
+    margin-top: 50px;
+}
+.lurus51{
+    font-size: 60px;
+    margin-left: -6px;
+    margin-top: -17px;
+    cursor: pointer;
+}
+.lurus52{
+    display: flex;
+}
+.lurus53{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.lurus54{
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+    animation-name: l1;
+    animation-duration: 0.5s;
+    background-color:  rgb(240, 240, 240);
+    padding: 50px;
+}
+.lurus57{
+    display: flex;
+    margin-top: 30px;
+}
+.lurus60{
+    display: flex;
+}
+.lurus65{
+    display: flex;
+    margin-top: 30px;
+}
+.lurus69{
+    display: flex;
+}
+.lurus56{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+.lurus68{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+}
+.lurus63{
+    margin-left: 120px;
+}
+.lurus58, .lurus59{
+    margin-top: 20px;
+}
+.lurus61, .lurus62{
+    margin-top: 20px;
+}
+.lurus59, .lurus62{
+    padding-left: 200px;
+}
+.lurus66, .lurus67{
+    margin-top: 20px;
+}
+.lurus67{
+    margin-left: 350px;
+}
+.lurus677{
+    margin-top: 20px;
+    margin-left: 230px;
+}
+.lurus676{
+    margin-top: 20px;
+    margin-left: 360px;
+}
+.lurus678{
+    margin-top: 20px;
+    margin-left: 250px;
+}
+.lurus70{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 35px;
+}
+.lurus71{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+.lurus75{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.lurus90{
+    text-align: center;
+    font-weight: 400;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+.lurus91{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 15px 70px;
+    transition: 0.5s;
+    font-size: 22px;
+    letter-spacing: 1px;
+}
+.lurus91:hover{
+    background-color: white;
+    box-shadow: 0 0 50px black;
+    color: black;
+}
+.lurus92{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.lurus93{
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+.lurus94{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.lurus95{
+    font-size: 65px;
+    cursor: pointer;
+}

@@ -1,0 +1,16 @@
+.mercamgimg2{
+    width: 750px;
+    height: 610px;
+    object-fit: cover;
+    margin-left: 100px;
+    background-size: cover;
+}
+.write-mercamg-fixed{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}

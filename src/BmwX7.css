@@ -1,0 +1,10 @@
+.bmwww-flexxx{
+    margin-top: 100px;
+    display: flex;
+}
+.bmwx7img2{
+    width: 800px;
+    height: 410px;
+    object-fit: cover;
+    background-size: cover;
+}

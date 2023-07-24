@@ -1,0 +1,61 @@
+.astmartimg1{
+    width: 1200px;
+    height: 550px;
+    object-fit: cover;
+    background-size: cover;
+    margin-left: 105px;
+    margin-top: 50px;
+}
+.bastmartprice2-h1{
+    font-weight: 400;
+    margin-left: 500px;
+}
+.bastmartweight2-h1{
+    font-weight: 400;
+    margin-left: 470px;
+}
+.bastmarttrans2-h1{
+    font-weight: 400;
+    margin-left: 309px;
+}
+.astmartflex-p1{
+    line-height: 30px;
+    font-size: 19px;
+    margin-left: 50px;
+}
+.astmartflex{
+    margin-top: 100px;
+    display: flex;
+}
+.astmartimg2{
+    width: 750px;
+    height: 410px;
+    object-fit: cover;
+    margin-left: 100px;
+    background-size: cover;
+}
+.astmartbtnflex{
+     display: flex;
+     justify-content: center;
+}
+.astmarthrefbtn{
+    background-color: black;
+    padding: 20px;
+    margin-top: 50px;
+    border: none;
+}
+.astmarthrefbtn a{
+    color: white;
+    padding: 15px 50px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.write-astmart-fixed{
+   bottom: 0;
+   width: 100%;
+   position: fixed;
+   padding: 5px;
+   background-color: black;
+   color: white;
+   text-align: center;
+}
